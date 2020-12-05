@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#C117DD"
+    android:outlineAmbientShadowColor="#C117DD"
+    android:layout_height="match_parent"
+    tools:context=".Welcome">
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="true"
+        android:layout_marginTop="132dp"
+        android:textColor="#16F106"
+        android:text="uestc Int'l pg app" />
+    <TextView
+        android:id="@+id/welcome1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="true"
+        android:layout_marginTop="90dp"
+        android:layout_below="@id/ivwelcome"
+        android:textColor="#0828F3"
+        android:text="G R E M O" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:id="@+id/ivwelcome"
+        android:src="@drawable/download"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>

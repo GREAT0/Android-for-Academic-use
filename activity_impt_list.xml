@@ -1,0 +1,27 @@
+<androidx.cardview.widget.CardView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    android:elevation="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/Tvimpt"
+            android:textStyle="bold"
+            android:text="IMPORTANT"
+            android:linksClickable="true"
+            android:phoneNumber="true"
+            android:autoLink="all"
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="2dp"
+            android:textColor="#619E1C"
+            />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

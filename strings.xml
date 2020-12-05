@@ -1,0 +1,2092 @@
+<resources>
+    <string name="app_name">MOSEYE</string>
+    <string-array name="Main">
+        <item> TIMETABLE </item>
+        <item> COURSES </item>
+        <item> SCHOOLS </item>
+        <item> CALENDER </item>
+        <item> ISO </item>
+        <item> ISU </item>
+        <item> RESOURCES </item>
+        <item> SETTINGS </item>
+        <item> ENTERTAINMENT </item>
+    </string-array>
+    <string-array name="Description">
+        <item> Set your Timetable,  Schedule your day and make it handy. </item>
+        <item> Detailed Information about the Courses Offered by each School </item>
+        <item> Get to know the Lecturers in each School and their Research Areas </item>
+        <item> Have Knowledge of the Holidays, and the Schedules of the School as well as the academic calendar for the year </item>
+        <item> Get to know all the Officials in the International Office and their positions and who to contact in case of necessity  </item>
+        <item> Get to know your ISU Officials, their contacts as well as other information about you and your academics </item>
+        <item> Get Your Academic resources from here </item>
+        <item> Set Your application notifications Here  </item>
+        <item> See the Beauty of the campus and the events recorded </item>
+    </string-array>
+    <string-array name="Week">
+        <item> SUNDAY </item>
+        <item> MONDAY </item>
+        <item> TUESDAY </item>
+        <item> WEDNESDAY </item>
+        <item> THURSDAY </item>
+        <item> FRIDAY </item>
+        <item> SATURDAY </item>
+    </string-array>
+    <string-array name="SUNDAY">
+        <item> DEVOTION </item>
+        <item> BREAKFAST </item>
+        <item> PERIOD 1 </item>
+        <item> PERIOD 2 </item>
+        <item> PERIOD 3 </item>
+        <item> PERIOD 4 </item>
+        <item> LUNCH BREAK </item>
+        <item> PERIOD 5 </item>
+        <item> PERIOD 6 </item>
+        <item> PERIOD 7 </item>
+        <item> PERIOD 8 </item>
+        <item> DINNER BREAK </item>
+        <item> PERIOD 9 </item>
+        <item> PERIOD 10 </item>
+        <item> PERIOD 11 </item>
+    </string-array>
+    <string-array name="MONDAY">
+        <item> DEVOTION </item>
+        <item> BREAKFAST </item>
+        <item> PERIOD 1 </item>
+        <item> PERIOD 2 </item>
+        <item> PERIOD 3 </item>
+        <item> PERIOD 4 </item>
+        <item> LUNCH BREAK </item>
+        <item> PERIOD 5 </item>
+        <item> PERIOD 6 </item>
+        <item> PERIOD 7 </item>
+        <item> PERIOD 8 </item>
+        <item> DINNER BREAK </item>
+        <item> PERIOD 9 </item>
+        <item> PERIOD 10 </item>
+        <item> PERIOD 11 </item>
+    </string-array>
+    <string-array name="TUESDAY">
+        <item> DEVOTION </item>
+        <item> BREAKFAST </item>
+        <item> PERIOD 1 </item>
+        <item> PERIOD 2 </item>
+        <item> PERIOD 3 </item>
+        <item> PERIOD 4 </item>
+        <item> LUNCH BREAK </item>
+        <item> PERIOD 5 </item>
+        <item> PERIOD 6 </item>
+        <item> PERIOD 7 </item>
+        <item> PERIOD 8 </item>
+        <item> DINNER BREAK </item>
+        <item> PERIOD 9 </item>
+        <item> PERIOD 10 </item>
+        <item> PERIOD 11 </item>
+    </string-array>
+    <string-array name="WEDNESDAY">
+        <item> DEVOTION </item>
+        <item> BREAKFAST </item>
+        <item> PERIOD 1 </item>
+        <item> PERIOD 2 </item>
+        <item> PERIOD 3 </item>
+        <item> PERIOD 4 </item>
+        <item> LUNCH BREAK </item>
+        <item> PERIOD 5 </item>
+        <item> PERIOD 6 </item>
+        <item> PERIOD 7 </item>
+        <item> PERIOD 8 </item>
+        <item> DINNER BREAK </item>
+        <item> PERIOD 9 </item>
+        <item> PERIOD 10 </item>
+        <item> PERIOD 11 </item>
+    </string-array>
+    <string-array name="THURSDAY">
+        <item> DEVOTION </item>
+        <item>  BREAKFAST </item>
+        <item> PERIOD 1 </item>
+        <item> PERIOD 2 </item>
+        <item> PERIOD 3 </item>
+        <item> PERIOD 4 </item>
+        <item> LUNCH BREAK </item>
+        <item> PERIOD 5 </item>
+        <item> PERIOD 6 </item>
+        <item> PERIOD 7 </item>
+        <item> PERIOD 8 </item>
+        <item> DINNER BREAK </item>
+        <item> PERIOD 9 </item>
+        <item> PERIOD 10 </item>
+        <item> PERIOD 11 </item>
+    </string-array>
+    <string-array name="FRIDAY">
+        <item> DEVOTION </item>
+        <item> BREAKFAST </item>
+        <item> PERIOD 1 </item>
+        <item> PERIOD 2 </item>
+        <item> PERIOD 3 </item>
+        <item> PERIOD 4 </item>
+        <item> LUNCH BREAK </item>
+        <item> PERIOD 5 </item>
+        <item> PERIOD 6 </item>
+        <item> PERIOD 7 </item>
+        <item> PERIOD 8 </item>
+        <item> DINNER BREAK </item>
+        <item> PERIOD 9 </item>
+        <item> PERIOD 10 </item>
+        <item> PERIOD 11 </item>
+    </string-array>
+    <string-array name="SATURDAY">
+        <item> DEVOTION </item>
+        <item> BREAKFAST </item>
+        <item> PERIOD 1 </item>
+        <item> PERIOD 2 </item>
+        <item> PERIOD 3 </item>
+        <item> PERIOD 4 </item>
+        <item> LUNCH BREAK </item>
+        <item> PERIOD 5 </item>
+        <item> PERIOD 6 </item>
+        <item> PERIOD 7 </item>
+        <item> PERIOD 8 </item>
+        <item> DINNER BREAK </item>
+        <item> PERIOD 9 </item>
+        <item> PERIOD 10 </item>
+        <item> PERIOD 11 </item>
+    </string-array>
+    <string-array name="TIME1">
+        <item>5:30AM - 6:30AM</item>
+        <item>6:30AM - 8:15AM</item>
+        <item>8:30AM - 9:15AM</item>
+        <item>9:20AM - 10:05AM</item>
+        <item>10:20AM - 11:05AM</item>
+        <item>11:10AM - 11:55AM</item>
+        <item>12 NOON - 2:20PM</item>
+        <item>2:30PM - 3:15PM</item>
+        <item>3:20PM - 4:05PM</item>
+        <item>4:20PM - 5:05PM</item>
+        <item>5:10PM - 5:55PM</item>
+        <item>6:00PM - 7:00PM</item>
+        <item>7:30PM - 8:15PM</item>
+        <item>8:20PM - 9:05PM</item>
+        <item>9:10PM - 9:55PM</item>
+    </string-array>
+    <string-array name="TIME2">
+        <item>5:30AM - 6:30AM</item>
+        <item>6:30AM - 8:15AM</item>
+        <item>8:30AM - 9:15AM</item>
+        <item>9:20AM - 10:05AM</item>
+        <item>10:20AM - 11:05AM</item>
+        <item>11:10AM - 11:55AM</item>
+        <item>12 NOON - 2:20PM</item>
+        <item>2:30PM - 3:15PM</item>
+        <item>3:20PM - 4:05PM</item>
+        <item>4:20PM - 5:05PM</item>
+        <item>5:10PM - 5:55PM</item>
+        <item>6:00PM - 7:00PM</item>
+        <item>7:30PM - 8:15PM</item>
+        <item>8:20PM - 9:05PM</item>
+        <item>9:10PM - 9:55PM</item>
+    </string-array>
+    <string-array name="TIME3">
+        <item>5:30AM - 6:30AM</item>
+        <item>6:30AM - 8:15AM</item>
+        <item>8:30AM - 9:15AM</item>
+        <item>9:20AM - 10:05AM</item>
+        <item>10:20AM - 11:05AM</item>
+        <item>11:10AM - 11:55AM</item>
+        <item>12 NOON - 2:20PM</item>
+        <item>2:30PM - 3:15PM</item>
+        <item>3:20PM - 4:05PM</item>
+        <item>4:20PM - 5:05PM</item>
+        <item>5:10PM - 5:55PM</item>
+        <item>6:00PM - 7:00PM</item>
+        <item>7:30PM - 8:15PM</item>
+        <item>8:20PM - 9:05PM</item>
+        <item>9:10PM - 9:55PM</item>
+    </string-array>
+    <string-array name="TIME4">
+        <item>5:30AM - 6:30AM</item>
+        <item>6:30AM - 8:15AM</item>
+        <item>8:30AM - 9:15AM</item>
+        <item>9:20AM - 10:05AM</item>
+        <item>10:20AM - 11:05AM</item>
+        <item>11:10AM - 11:55AM</item>
+        <item>12 NOON - 2:20PM</item>
+        <item>2:30PM - 3:15PM</item>
+        <item>3:20PM - 4:05PM</item>
+        <item>4:20PM - 5:05PM</item>
+        <item>5:10PM - 5:55PM</item>
+        <item>6:00PM - 7:00PM</item>
+        <item>7:30PM - 8:15PM</item>
+        <item>8:20PM - 9:05PM</item>
+        <item>9:10PM - 9:55PM</item>
+    </string-array>
+    <string-array name="TIME5">
+        <item>5:30AM - 6:30AM</item>
+        <item>6:30AM - 8:15AM</item>
+        <item>8:30AM - 9:15AM</item>
+        <item>9:20AM - 10:05AM</item>
+        <item>10:20AM - 11:05AM</item>
+        <item>11:10AM - 11:55AM</item>
+        <item>12 NOON - 2:20PM</item>
+        <item>2:30PM - 3:15PM</item>
+        <item>3:20PM - 4:05PM</item>
+        <item>4:20PM - 5:05PM</item>
+        <item>5:10PM - 5:55PM</item>
+        <item>6:00PM - 7:00PM</item>
+        <item>7:30PM - 8:15PM</item>
+        <item>8:20PM - 9:05PM</item>
+        <item>9:10PM - 9:55PM</item>
+    </string-array>
+    <string-array name="TIME6">
+        <item>5:30AM - 6:30AM</item>
+        <item>6:30AM - 8:15AM</item>
+        <item>8:30AM - 9:15AM</item>
+        <item>9:20AM - 10:05AM</item>
+        <item>10:20AM - 11:05AM</item>
+        <item>11:10AM - 11:55AM</item>
+        <item>12 NOON - 2:20PM</item>
+        <item>2:30PM - 3:15PM</item>
+        <item>3:20PM - 4:05PM</item>
+        <item>4:20PM - 5:05PM</item>
+        <item>5:10PM - 5:55PM</item>
+        <item>6:00PM - 7:00PM</item>
+        <item>7:30PM - 8:15PM</item>
+        <item>8:20PM - 9:05PM</item>
+        <item>9:10PM - 9:55PM</item>
+    </string-array>
+    <string-array name="TIME7">
+        <item>5:30AM - 6:30AM</item>
+        <item>6:30AM - 8:15AM</item>
+        <item>8:30AM - 9:15AM</item>
+        <item>9:20AM - 10:05AM</item>
+        <item>10:20AM - 11:05AM</item>
+        <item>11:10AM - 11:55AM</item>
+        <item>12 NOON - 2:20PM</item>
+        <item>2:30PM - 3:15PM</item>
+        <item>3:20PM - 4:05PM</item>
+        <item>4:20PM - 5:05PM</item>
+        <item>5:10PM - 5:55PM</item>
+        <item>6:00PM - 7:00PM</item>
+        <item>7:30PM - 8:15PM</item>
+        <item>8:20PM - 9:05PM</item>
+        <item>9:10PM - 9:55PM</item>
+    </string-array>
+    <string-array name="SCHOOL">
+        <item> COMMON COURSES </item>
+        <item> ELECTIVE COMPETENCE DEVELOPMENT </item>
+        <item> INFORMATION AND COMMUNICATION ENGINEERING </item>
+        <item> ELECTRONIC SCIENCE AND TECHNOLOGY </item>
+        <item> MECHANICAL ENGINEERING </item>
+        <item> ELECTRICAL ENGINEERING </item>
+        <item> PHYSICS COURSES </item>
+        <item> OPTICAL ENGINEERING </item>
+        <item> INSTRUMENT SCIENCE AND TECHNOLOGY </item>
+        <item> CONTROL SCIENCE AND ENGINEERING </item>
+        <item> COMPUTER SCIENCE AND TECHNOLOGY </item>
+        <item> SOFTWARE ENGINEERING </item>
+        <item> MATHEMATICS COURSES </item>
+        <item> BIOMEDICAL ENGINEERING </item>
+        <item> MANAGEMENT SCIENCE AND ENGINEERING </item>
+        <item> PUBLIC MANAGEMENT COURSES </item>
+    </string-array>
+    <string-array name="SCHOOL1">
+        <item> INFORMATION AND COMMUNICATION ENGINEERING </item>
+        <item> ELECTRONIC SCIENCE AND TECHNOLOGY </item>
+        <item> MECHANICAL ENGINEERING </item>
+        <item> ELECTRICAL ENGINEERING </item>
+        <item> PHYSICS COURSES </item>
+        <item> OPTICAL ENGINEERING </item>
+        <item> INSTRUMENT SCIENCE AND TECHNOLOGY </item>
+        <item> CONTROL SCIENCE AND ENGINEERING </item>
+        <item> COMPUTER SCIENCE AND TECHNOLOGY </item>
+        <item> SOFTWARE ENGINEERING </item>
+        <item> MATHEMATICS COURSES </item>
+        <item> BIOMEDICAL ENGINEERING </item>
+        <item> MANAGEMENT SCIENCE AND ENGINEERING </item>
+        <item> PUBLIC MANAGEMENT COURSES </item>
+    </string-array>
+    <string-array name="COMMON_CORE">
+        <item> {KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Comprehensive Chinese [C2.0, S1, M/P]</item>
+        <item> A survey of China [C2.0, S1/2, M/P] </item>
+        <item> Chinese Reading and Writing [C2.0, S2, M/P] </item>
+        <item> Stochastic Processes and Applications [C3.0, S1, M]</item>
+        <item> Matrix Theory [C3.0, S1, M] </item>
+        <item> Numerical Analysis [C3.0, S2, M]</item>
+        <item> Optimization Theory and Applications [C2.5, S1, P] </item>
+        <item> Numerical Algebra [C2.5, S2, P] </item>
+    </string-array>
+    <string-array name="ELECTIVE">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Cultural Difference and Cross-Cultural Communication I [C1.0, S1, M/P] </item>
+        <item> Cultural Difference and Cross-Cultural Communication II [C1.0, S2, M/P]</item>
+        <item> Practice Chinese Etiquette [C1.0, S2, M/P] </item>
+        <item> Characters and Chinese Culture [C2.0, S1, M/P] </item>
+    </string-array>
+    <string-array name="INFORMATION">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Optimization Theory and Application [C2.5, S1, M/P]</item>
+        <item> Signal Detection and Estimation [C2.0, S1, M/P] </item>
+        <item> Digital Communication [C2.0, S2, M/P] </item>
+        <item> Digital Signal Processing [C2.0, S1, M/P] </item>
+        <item> Fiber Optical Communication [C2.0, S2, M/P] </item>
+        <item> Fuzzy Logic [C2.0, S2, M/P] </item>
+        <item> Optical Fiber Technology [C2.0, S1, M/P] </item>
+        <item> Computational Intelligence Methods and Application [C1.5, S2, M/P] </item>
+        <item> Radar Theory [C1.5, S2, M] </item>
+        <item> Analog IC Design [C2.0, S2, M] </item>
+        <item> IC Design [C2.0, S1, M/P] </item>
+        <item> Big Data Analysis and Mining [C2.0, S2, P] </item>
+        <item> Network Security [C3.0, S1, M] </item>
+        <item> Software Development Technology [C3.0, S1, P] </item>
+        <item> Mathematical Fundamental of Information Security [C2.0, S1, M] </item>
+        <item> Internet Programming Design [C2.0, S2, M] </item>
+        <item> Theories and Methods of Systems Engineering [C2.0, S1, M/P] </item>
+    </string-array>
+    <string-array name="ELECTRONIC">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Radar Theory [C1.5, S2, M]</item>
+        <item> Signal Detection and Estimation [C2.0, S1, M/P] </item>
+        <item> IC Design [C2.0, S2] </item>
+        <item> Electronic Packaging Technology [C2.0, S1] </item>
+        <item> Co- Design of Hardware and Software [C2.0, S2] </item>
+        <item> RF IC Design [C2.0, S2] </item>
+        <item> Analog IC Design [C2.0, S1] </item>
+        <item> Advanced Electromagnetic Field Theory [C3.0, S1] </item>
+        <item> Flexible MEMS Technology and Integration [C2.0, S2] </item>
+        <item> Advanced Digital IC Design  [C2.0, S2] </item>
+        <item> Basis of Integrated Circuit Simulation and Automation Design  [C2.0, S1]</item>
+        <item> Introduction to Terahertz Science and Technology [C1.0, S2] </item>
+    </string-array>
+    <string-array name="MECHANICAL">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Machinery Dynamics [C2.0, S2, M/P] </item>
+        <item> Micro-Electro-Mechanical System (MEMS) [C2.0, S1, M/P] </item>
+        <item> Advanced Manufacturing Technology [C2.0, S1, M/P] </item>
+        <item> Reliability Design [C2.0, S2, M/P] </item>
+    </string-array>
+    <string-array name="ELECTRICAL">
+        <item> {KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Power Operation and Control [C2.0, S2, M/P] </item>
+        <item> Power Electronics [C2.0, S1, M/P] </item>
+        <item> Renewable Energy Generation and Integration [C2.0, S2, M/P] </item>
+        <item> Electricity Market [C2.0, S1, M/P] </item>
+    </string-array>
+    <string-array name="PHYSICS">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Radar Theory [C1.5, S2, M] </item>
+        <item> Advanced Electromagnetic Field Theory [C2.5, S1, M/P] </item>
+        <item> General Relativity Theory [C2.0, S2, M/P]  </item>
+        <item> Quantum Field Theory I [C2.5, S1, M/P] </item>
+        <item> Quantum Field Theory II [C2.2, S2, M/P] </item>
+        <item> Advanced Quantum Mechanics [C3.0, S2, M/P] </item>
+        <item> Nano Optics [C2.0, S2, M/P] </item>
+        <item> Silicon-Based RF Integrated Circuit Design [C1.0, S2, M/P] </item>
+    </string-array>
+    <string-array name="OPTICAL">
+        <item> {KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Optoelectronics Technology [C2.0, S1]</item>
+        <item> Fiber Optics [C1.5, S1] </item>
+        <item> Optoelectronics and Photonics [C1.0, S2] </item>
+        <item> Organic Electronics [C1.0, S2] </item>
+    </string-array>
+    <string-array name="INSTRUMENT">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Methods and Applications of Signal Processing </item>
+    </string-array>
+    <string-array name="CONTROL">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Methods and Applications of Signal Processing [C2.0, S2] </item>
+        <item> Performance Evaluation and Optimization for Complex Systems [C1.0, S2] </item>
+        <item> Computer Vision [C2.0, S1] </item>
+        <item> Linear System Theory [C2.5, S, M/P] </item>
+        <item> Theories and Methods of Systems Engineering [C2.0, S1, M/P] </item>
+    </string-array>
+    <string-array name="COMPUTER">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Advanced Network Computing [C2.0, S1, P] </item>
+        <item> Big Data Analysis and Mining [C2.0, S2, M/P] </item>
+        <item> Network Security [C3.0, S1, M/P] </item>
+        <item> Multimedia Technology and Applications [C3.0, S1, M/P] </item>
+        <item> Software Development Technology [C3.0, S1, M/P] </item>
+        <item> Mobile Computing [C2.0, S2, M/P] </item>
+        <item> Embedded Operating System and Application [C2.0, S2, M/P] </item>
+        <item> The Design of Cryptographic Algorithm [C2.0, S2, P] </item>
+        <item> Cloud Computing [C1.0, S1, M/P] </item>
+        <item> Foundation of Cryptography [C2.0, S2, M] </item>
+        <item> Security Protocol [C2.0, S1, M/P]  </item>
+        <item> Mathematical Fundamental of Information Security [C2.0, S1, M] </item>
+        <item> Operating System and Application Programming [C2.0, S2, M/P] </item>
+        <item> Object Oriented Technology [C2.0, S2, M] </item>
+        <item> Computer Graphics [C2.0, S2, M] </item>
+        <item> Internet Programming Design [C2.0, S2, M] </item>
+        <item> Database Technique [C2.0, S2, M] </item>
+    </string-array>
+    <string-array name="SOFTWARE">
+        <item> {KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Software Architecture Model and Design [C2.0, S2, M/P] </item>
+        <item> Embedded System and Application [C2.0, S2] </item>
+        <item> Fundamentals of Network Computing [C2.0, S1, M/P] </item>
+        <item> Network Security: Theory and Practice [C2.0, S1, M/P] </item>
+        <item> Object-oriented System Analysis and Design  [C2.0, S2]</item>
+        <item> Internet Programming and Blockchain Applications [C2.0, S2] </item>
+        <item> Android Application Development [C2.0, S2] </item>
+        <item> New Theory and Practice of Database [C2.0, S1, M/P] </item>
+        <item> Data Analysis and Data Mining [C2.0, S2, M/P] </item>
+    </string-array>
+    <string-array name="MATHEMATICS">
+        <item> {KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Functional Analysis [C3.0, S1]  </item>
+        <item> Partial Differential Equation [C3.0, S1] </item>
+        <item> Numerical Solution of Partial Differential Equations [C3.0, S2] </item>
+        <item> Convex Analysis [C2.0, S2] </item>
+        <item> Special Matrices [C2.5, S2] </item>
+        <item> Advanced Probability Theory [C3.0, S1] </item>
+        <item> Probability Limit Theory [C2.0, S2] </item>
+        <item> Multi-Variate Statistical Analysis [C2.0, S2] </item>
+    </string-array>
+    <string-array name="BIOMEDICAL">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Cognitive Neuroscience [C2.0, S1] </item>
+        <item> Psychophysical Experiments [C2.0, S2] </item>
+        <item> Advanced Molecular Biology [C2.0, S1] </item>
+        <item> Bioinformatics [C2.0, S1]</item>
+        <item> Fundamentals of Brain Science [C2.0, S2] </item>
+        <item> Advances in Brain Imaging [C2.0, S2] </item>
+        <item> Biomedical Statistics [C2.0, S2] </item>
+    </string-array>
+    <string-array name="MANAGEMENT">
+        <item> {KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Business Statistics [C2.5, S1, M/P] </item>
+        <item> Management and Economic Research Method [C1.5, S2, M/P] </item>
+        <item> Finance [C2.5, S2, M/P] </item>
+        <item> Supply Chain Management [C2.5, S1, M/P] </item>
+        <item> Data Mining and Information Management [C2.5, S1, M/P] </item>
+        <item> Service Management [C1.5, S2, M/P] </item>
+        <item> Research Topics on Data Mining and Information Management [C1.0, S2, P] </item>
+        <item> Research Topics on Supply Chain Management [C1.0, S2, P] </item>
+        <item> Managerial Research Method [C2.0, S2, P] </item>
+        <item> Organizational Theory [C2.5, S1, P] </item>
+        <item> Complexity Theory in Management Research [C1.5, S2, P] </item>
+        <item> Research Topics on Innovation and Entrepreneurship Management [C2.5, S2, P] </item>
+    </string-array>
+    <string-array name="PUBLIC_MANAGEMENT">
+        <item>{KEYS C = credits, S = Semester, M/P = Msc/PhD} </item>
+        <item> Public Management [C3.0, S1] </item>
+        <item> Classic Readings of Public Administration [C3.0, S1] </item>
+        <item> Social Science Research Methods [C2.0, S2] </item>
+        <item> Public Economics [C2.0, S2] </item>
+        <item> E-government [C2.0, S2] </item>
+        <item> Public Human Resource Management [C2.0, S2] </item>
+        <item> Comparative Government and Politics [C2.5, S1] </item>
+        <item> The Globalization of World Politics [C2.0, S1] </item>
+        <item> Public Policy [C2.5, S1] </item>
+        <item> Government and Media [C2.0, S2] </item>
+        <item> IC Academic Writing [C1.0, S1] </item>
+    </string-array>
+    <string-array name="ISO">
+        <item> Mr. Cai Mingjun </item>
+        <item> Mr. Liu Yang </item>
+        <item> Mr. Dong Miao (Daniel) </item>
+        <item> Ms. Zhang Xin (Monica) </item>
+        <item> Ms. Lin Min  </item>
+        <item> Mr. Dong Liang (Filippo) </item>
+        <item> Ms. Wang Ya </item>
+        <item> Ms. Zhang Xianoyu </item>
+        <item> Ms. Ma Chunxiao (Nora) </item>
+    </string-array>
+    <string-array name="ISO_staff">
+        <item> Students Affairs New Campus </item>
+        <item> Dormitory and Visa Affairs </item>
+        <item> Financial and Airport Pickup Affairs </item>
+        <item> Students affairs </item>
+        <item> Admission and Academic Affairs </item>
+        <item> Graduate Admission Affairs </item>
+        <item> Undergraduate Admission and Academic Affairs </item>
+        <item> Language Admission and Short term Visiting Affairs </item>
+        <item> Language and Old Campus Students affairs </item>
+    </string-array>
+    <string-array name="ISO_Contact">
+        <item> +862861831732/ cai@uestc.edu.cn </item>
+        <item> +862861831732/ liuyanguestc@uestc.edu.cn </item>
+        <item> +862861831732/ dongmiao@uestc.edu.cn </item>
+        <item> +862861831732/ monicachengdu@uestc.edu.cn </item>
+        <item> +862861831638/ studyin@uestc.edu.cn </item>
+        <item> +862861831638/ admission@uestc.edu.cn </item>
+        <item> +862861831638/ admission@uestc.edu.cn </item>
+        <item> +862861831638/ zhangxiaoyu@uestc.edu.cn</item>
+        <item> +862883202357/ norama@uestc.edu.cn </item>
+    </string-array>
+    <string-array name="Staff_1">
+        <item> Dr.Chen Hui [Female] </item>
+        <item> Dr.Chen Kesong [Male] </item>
+        <item> Asso. Prof Cheng Ting [ Female]  </item>
+        <item> Dr. Duan Huiping [Female] </item>
+        <item> Prof.Gan Lu [Male] </item>
+        <item> Dr.Guo Benqing [Male] </item>
+        <item> Asso. Prof. Guo Xiansheng [Male]  </item>
+        <item> Dr.Cui Guolong [ Male] </item>
+        <item> Prof. He Chun  [Female]  </item>
+        <item> Dr. HE Qian [Female] </item>
+        <item> Prof.Jiang Chaoshu [Male] </item>
+        <item> Dr.Jiang Ning [Male]  </item>
+        <item> Prof.Leng Supeng [Male] </item>
+        <item> Asso. Prof.Li Jian [Male] </item>
+        <item> Asso. Prof. Li Longjiang [Male]  </item>
+        <item> Asso.Prof.Li Qiang [Male] </item>
+        <item> Dr.Liang Jing [Female] </item>
+        <item> Asso. Prof. 	Lin Jingran [Male]  </item>
+        <item> Prof. Lin Shuisheng [Male] </item>
+        <item> Prof. LIU Guanghu [Male] </item>
+        <item> Asso.Prof. Liu Qiang [Male]  </item>
+        <item> Asso.Prof.LIU Yipeng [Male] </item>
+        <item> Asso.Prof Luo Junhai [Male] </item>
+        <item> Dr. Lu Ming (or Lv Ming) [Male]  </item>
+        <item> Prof.Tang Bin [Male] </item>
+        <item> Asso. Prof.Wang Hong [Male] </item>
+        <item> Asso.Prof.Wang Jian [Male] </item>
+        <item> Dr.Wang Shuai [Male] </item>
+        <item> Prof.Wang Wenqin [Male]  </item>
+        <item> Asso.Prof. WEI Ping [Male] </item>
+        <item> Prof.Wen Guangjun [Male] </item>
+        <item> Asso.Prof.Wu Chang [Male]  </item>
+        <item> Asso.Prof.Wu Huijuan  [Female]  </item>
+        <item> Prof.	XIE Mei  </item>
+        <item> Prof.Xu Shizhong [Male] </item>
+        <item> Asso. Prof.Yang Haifen [Female] </item>
+        <item> Asso. Prof.You ChangJiang [Male]  </item>
+        <item> Prof.Yu Hongfang [Female]  </item>
+        <item> Dr.Zeng Liaoyuan [Male] </item>
+        <item> Dr.Zhang Jing [Female] </item>
+        <item> 	Prof.Zhang Ying [Female] </item>
+        <item> Asso.Prof.Zheng Zhi [Male] </item>
+        <item> Prof.Zhou Jun </item>
+        <item> Prof.ZHU Ce [Male] </item>
+        <item> Asso.Prof.Zhuang Jie [Male] </item>
+        <item>Dr. Chen Fen [Male] </item>
+        <item>Asso.Prof.Gao Jianbin [Male]</item>
+        <item>Prof.Li Shihua [Male] </item>
+        <item>Prof.Liang Yan [Female] </item>
+        <item> Prof.Wang, Hua [Male] </item>
+        <item>Prof. 	Xu Wenbo  [Male] </item>
+        <item>Asso.Prof.Yang Qinli   [Female]</item>
+        <item>Asso.Prof.ZHOU Ji [Male]</item>
+        <item>Dr. Zhou Yan [Female] </item>
+        <item> </item>
+
+    </string-array>
+    <string-array name="Staff_2">
+        <item> Prof.BAN Yong-Ling [Male] </item>
+        <item> Prof.Bao Jingfu [Male] </item>
+        <item> Prof.Cheng Yu Jian [Male] </item>
+        <item> Dr.GAO Libin  [Female] </item>
+        <item> Dr.Gao Yuan ci [Male] </item>
+        <item> Prof.HU Min [Male]  </item>
+        <item> Prof, JIA Chunyang [Male] </item>
+        <item> Dr. JIANG Jing [Female] </item>
+        <item> Asso.Prof.Kong Moufu [Male]  </item>
+        <item> Asso,Prof.Lai Dakun [Male] </item>
+        <item> Dr.LAN Feng [Male] </item>
+        <item> Dr. Lee Wilson（李荣宽）[Male] </item>
+        <item> Dr.	Li Hao  [Male] </item>
+        <item> 	Prof.LI Qiang [Male] </item>
+        <item> Asso.Prof.Liao Yongbo [Male]  </item>
+        <item> Prof.LIN Xian-Qi [Male] </item>
+        <item> Prof.Lin Yuan [Female] </item>
+        <item> Asso.Prof.Liu,Cheng [Male]  </item>
+        <item> Prof.Liu Dagang [Male] </item>
+        <item> Prof.Liu Diwei  [Male] </item>
+        <item> Prof.Luo Ping [Female]  </item>
+        <item> Prof. Luo Xiaorong [Female] </item>
+        <item>Prof.Luo Xun [Male] </item>
+        <item> Asso.Prof.	SUN Xu </item>
+        <item> Asso.Prof.Tang Xu [Male] </item>
+        <item> Prof. Wang Chao  [Male]</item>
+        <item> Dr.	Wang Zhanliang [Male]  </item>
+        <item> Prof. WANG Zhao [Male] </item>
+        <item> Prof.WANG Zheng {Male] </item>
+        <item> Asso.Prof.Wu Yunqiu [Female]  </item>
+        <item> Prof.Xiao Fei  [Male]] </item>
+        <item> Asso.Prof.Xiong Wan An  [Male] </item>
+        <item> Prof. XU Kaikai [Male]  </item>
+        <item> Prof.Yan Peng [Male] </item>
+        <item> Dr.	Yang Guang [Male] </item>
+        <item> Asso.Prof.YANG Peng [Male]  </item>
+        <item> Dr.	Yang Ziqiang [Male] </item>
+        <item> Asso.Prof.You Fei [Male] </item>
+        <item> Prof.Zeng Baoqing [Male]  </item>
+        <item> Dr.ZHAI Yahong [Female] </item>
+        <item> Prof.Zhang Wanli [Male] </item>
+        <item> Asso.Prof.Zhang Wenxu [Male]  </item>
+        <item> Prof. 	Zhang Yong [Male] </item>
+        <item> Dr.Zhao Chenxi [Male] </item>
+        <item> Asso.Prof.ZHAO Huapeng [Male]  </item>
+        <item> Dr. Zhong Renbin [Female] </item>
+
+    </string-array>
+    <string-array name="Staff_3">
+        <item> Asso.Prof.Dai Xiaolin [Male] </item>
+        <item> Dr.Feng Daiwei [Male] </item>
+        <item> Dr.Gong Dawei [Male]  </item>
+        <item> Dr.Guo Wei [Female] </item>
+        <item> Prof.Huang Hong-Zhong [Male] </item>
+        <item> Asso.Prof.Jiang Hai [Male]  </item>
+        <item> Asso.Prof.Li Yefei [Male] </item>
+        <item>  Prof.LIU, Yu [Male] </item>
+        <item> Prof. Liu Zhiliang [Male]  </item>
+        <item> Prof.Lu Cong [Male] </item>
+        <item> Asso.Prof.Nie Bao-Lin [Male] </item>
+        <item> Dr.Qiu Jing  [Female] </item>
+        <item> Prof.Tang Zhang-Chun [Male] </item>
+        <item> Dr.Wang KeSheng [Male]  </item>
+        <item> Prof.Wang, Wei [Male]  </item>
+        <item> Prof.Wang Zhonglai [Male] </item>
+        <item> Prof.Weng Xuan [Female] </item>
+        <item> Dr. Xiao Ning-Cong [Male]  </item>
+        <item> Asso.Prof.Xu Huanwei [Male] </item>
+        <item> Asso.Prof.Yan Mingming [Female] </item>
+        <item> Prof.Yu Yating [Female]  </item>
+        <item> Asso.Prof.ZHANG Peipei [Female] </item>
+        <item> Asso.Prof.ZHANG Peipei [Female] </item>
+        <item> Prof. Zhou Xiaoming [Male] </item>
+        <item> Prof.Zhu Shun-Peng [Male] </item>
+        <item>Material Science and Engineering</item>
+        <item>Prof.Chen Jin-Ju [Female] </item>
+        <item>Prof.Hao Feng [Male] </item>
+        <item>Dr.	Jia Kun [Male] </item>
+        <item>Prof.	Jian Xian [Male] </item>
+        <item>Prof.	Li Jingze [Male] </item>
+        <item>Prof.Lin Bin [Male] </item>
+        <item>Prof.Liu Xiaobo [Male] </item>
+        <item> Asso.Prof.Tang Hui [Male]</item>
+        <item>Prof.	WU，Mengqiang [Male] </item>
+        <item>Asso.Prof.Zhang Shu [Female] </item>
+        <item> </item>
+    </string-array>
+    <string-array name="Staff_4">
+        <item> Prof. 	Han Yang [Male] </item>
+        <item> Prof.Hu Weihao [Male]  </item>
+        <item> Prof.Huang Qi [Male]  </item>
+        <item> Asso.Prof.CHEN Luan [Male] </item>
+        <item> Asso.Prof.CHEN Shuheng [ Male] </item>
+        <item> Asso.Prof.Gui Xun [Male] </item>
+        <item> Dr.Li Jian [Male] </item>
+        <item> Asso.Prof.Long Bo [Male] </item>
+        <item> Prof.PAN Siming [Male]  </item>
+        <item> Dr. SUN Min [Male] </item>
+        <item> Dr.Teng Yunlong [Male] </item>
+        <item> Asso.Prof.Wu Yunfeng [Male] </item>
+        <item> Asso.Prof.Yi Jianbo [Male] </item>
+        <item> Asso.Prof. Zhang Chang-hua [Male]</item>
+        <item> Asso.Prof.Zhang Zhenyuan [Male] </item>
+        <item>  </item>
+
+    </string-array>
+    <string-array name="Staff_5">
+        <item> Asso.Prof.Ding Shuai [Male] </item>
+        <item> Asso.Prof.DING XIAO [Male] </item>
+        <item> Prof.Fu Yongqi [Male] </item>
+        <item> Prof.Hong Jingsong [Male] </item>
+        <item> Asso.Prof.Huang Xiaoping [Male] </item>
+        <item> Asso.Prof.Kim, Sung-Soo [Male] </item>
+        <item> Prof.LI Jialin [Male] </item>
+        <item> Asso.Prof.LI Jialin [Male] </item>
+        <item> Dr.Liu Chunming [Male]  </item>
+        <item> Prof.Lv Haifeng </item>
+        <item> Dr.LV Weiqiang [Male] </item>
+        <item> Prof.MOU SHOUXIAN [Male]  </item>
+        <item> Prof.Qiao Liang [Male] </item>
+        <item> Prof.Shao Wei [Male] </item>
+        <item> Asso.Prof.Wang Maoyan [Female]  </item>
+        <item> Prof.WANG Xiaohua [Male] </item>
+        <item> Dr.Wu Minghe [Male]</item>
+        <item> Asso.Prof.Xiao Haiyan [Female] </item>
+        <item> Asso.Prof.Xiao Shaoqiu [Male] </item>
+        <item> Prof.Zhang Yan [Male] </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Staff_6">
+        <item> Prof.Chen Kaixin [Male] </item>
+        <item> Dr.Chen Zexiang [Male]  </item>
+        <item> Prof.Gu Deen [Male]  </item>
+        <item> Ass.Prof.Guo Xiaowei  [Male] </item>
+        <item> Asso.Prof.Hu Zhefeng [Male] </item>
+        <item> Prof.Li Chun [Male] </item>
+        <item> Prof.Li Jianfeng[Male] </item>
+        <item> Prof.Li Shibin [Male] </item>
+        <item> Prof.Li Wei [Male] </item>
+        <item> Prof.Liu Fucai  [Male] </item>
+        <item> Asso.Prof.LIU Juanxiu [Female] </item>
+        <item> Asso.Prof.LIU Lin [Male] </item>
+        <item> Prof.Liu Yong [Male] </item>
+        <item> Prof.Rao Haibo [Male] </item>
+        <item> Asso.Prof.Wei Chen [Female]  </item>
+        <item> Prof.Xu Xiangdong [Male] </item>
+        <item> Prof.Yu Junsheng [Male]</item>
+        <item> Asso.Prof. Yue Huimin [Female] </item>
+        <item> Dr. ZHANG Jing [Female] </item>
+        <item> Prof.ZHANG Shangjian [Male] </item>
+        <item>   </item>
+
+    </string-array>
+    <string-array name="Staff_7">
+        <item> Prof.Cheng Yuhua [Male] </item>
+        <item> Dr.Huang Wuhuang [Male] </item>
+        <item> Dr.PAN Huiqing [Female] </item>
+        <item> Prof.Tian Guiyun [Male] </item>
+        <item> Prof.Tian Shulin [Male] </item>
+        <item> Prof.Wang Houjun [Male]  </item>
+        <item> Dr.Yang Kuojun [Male] </item>
+        <item> Prof.Ye Peng {Male] </item>
+        <item> Asso.Prof.Zhan Huiqin  [Female]  </item>
+        <item> Asso.Prof.Zhang Qinchuan [Male] </item>
+        <item> Dr.Zhang Wei [Male] </item>
+        <item>   </item>
+
+    </string-array>
+    <string-array name="Staff_8">
+        <item> Prof.Hu Weihao [Male]</item>
+        <item> Prof.Chen Yong [Male] </item>
+        <item> Asso.Prof.Cheng hong [Male] </item>
+        <item> Asso.Prof.Chen Yunping [Male] </item>
+        <item> Prof.Gao Bin [Male]</item>
+        <item> Prof.Huang Xianhe [Male]  </item>
+        <item> Dr.HU Xuehai [Male] </item>
+        <item> Asso.Prof.JI Yanli [Female] </item>
+        <item> Asso.Prof.Liu Qunying [Female] </item>
+        <item> Asso.Prof.Liu Shan [Female] </item>
+        <item> Asso.Prof.Li Yuxia [Female] </item>
+        <item> Dr.LuYouliang [Male] </item>
+        <item> Asso.Prof.Peng Chao  [Male] </item>
+        <item> Prof.	Wu Xiaojuan [Female] </item>
+        <item> Prof.YANG Lu  [Male]  </item>
+        <item> Asso.Prof Zhang Zhiguo [Male] </item>
+        <item> Asso.Prof.	Zhang Yuping [Male] </item>
+        <item> Dr.Zheng Yali [Feamle]  </item>
+        <item> Prof.ZOU JIANXIAO  [Male] </item>
+        <item>Asso.Prof.Chen Peng [Male]  </item>
+        <item>Asso.Prof.Lai Junyu [Male] </item>
+        <item>Prof.	Li Bo [Male] </item>
+        <item>Prof.LI Gun [Male] </item>
+        <item> Prof.Li Hui [Male]</item>
+        <item>Asso.Prof.Li Xuesheng [Male] </item>
+        <item>Asso.Prof.Wang Zijun [Female] </item>
+        <item>Prof.	Wu Qian [Male] </item>
+        <item>Dr.	Xie Xiaomei [Female] </item>
+        <item>Asso.Prof.Xu Kun [Male] </item>
+        <item>Prof.	Xu Limei [Female] </item>
+        <item>Asso.Prof.Zhang Xianggang [Male] </item>
+        <item>Asso.ProfZhong Qishui [Male] </item>
+        <item> Asso.Prof.	Zou Huan [Male]</item>
+        <item> </item>
+    </string-array>
+    <string-array name="Staff_9">
+        <item> Dr.CAI Shimin [Male] </item>
+        <item> Dr.CHEN Aiguo [Male] </item>
+        <item> Asso.Prof..Chen Daunbing [Male] </item>
+        <item> Asso.Prof.Chen Juan [Female] </item>
+        <item> Prof.CHEN Leiting [Male] </item>
+        <item> Prof.Chen Wenyu [Male]  </item>
+        <item> Dr.Ding Xuyang [Male] </item>
+        <item> Dr.Dong Le [Female]</item>
+        <item> Dr.Duan Hancong [Male]  </item>
+        <item> Prof.Fan Mingyu [Female] </item>
+        <item> Dr.Fu Bo [Male] </item>
+        <item> Prof.Gao Hui [Male]  </item>
+        <item> Prof.	Gong Haigang [Male] </item>
+        <item> Dr.Gui Shenglin [Male] </item>
+        <item> Prof.Hou Mengshu [Male] </item>
+        <item> Dr.Kang Zhao [Male] </item>
+        <item> Prof.Li Fagen [Male] </item>
+        <item> Dr.	Li Hongwei [Male]  </item>
+        <item> Dr.Li Yujun [Male] </item>
+        <item> Dr.Lin Jie [Male] </item>
+        <item> Prof.Liu Guisong [Male]  </item>
+        <item> Asso.Prof.	Liu Zhen [Male] </item>
+        <item> Asso.Prof.Lu Guanghui [Male] </item>
+        <item> Prof.	Lu Li [Male] </item>
+        <item> Dr.	Lu Xiaojun [Male] </item>
+        <item> Asso.Prof.Luo Jiaqing [Male] </item>
+        <item> Dr.Niu Xinzheng [Male] </item>
+        <item> Asso.Prof.QIN KE [Male] </item>
+        <item> Dr.	Qiu Hang {Male] </item>
+        <item> Prof. 	Qu Hong [Male] </item>
+        <item> Dr.Rong Zhihai [Male] </item>
+        <item> Prof.Shao Jie  [Male] </item>
+        <item> Prof.	Shao Junming [Male]  </item>
+        <item> Dr.Shen Jie [Male] </item>
+        <item> Asso.Prof.Song Chao [Male] </item>
+        <item> Asso.Prof.SUN Guolin [Male]  </item>
+        <item> Dr. 	Sun Ming [Male] </item>
+        <item> Dr.Wang Xiaofen [Female] </item>
+        <item> Asso.Prof.WANG Yong [Male] </item>
+        <item> Asso.Prof.Wen Quan [Male] </item>
+        <item> Prof.WU HONG [Male] </item>
+        <item> Prof.	Wu Lijun [Male]  </item>
+        <item> Dr. 	Xia Qi [Female] </item>
+        <item> Dr.Xiang Yu [Male]  </item>
+        <item> Prof.	XIAO Mingyu [Male] </item>
+        <item> Prof.	Xu Chunxiang  [Female]</item>
+        <item> Asso.Prof.Xu Yang [Male]  </item>
+        <item> Prof.Xu Zenglin [Male] </item>
+        <item> Asso.Prof.Xue Ruini [Male]</item>
+        <item> Dr. Yan Hua [Female]  </item>
+        <item> Prof.YANG Bo [Male]</item>
+        <item> Prof.Yang Guowu [Male]  </item>
+        <item> Dr.Yang Haomiao [Male] </item>
+        <item> Prof.Yang Yang [Male] </item>
+        <item> Prof.Ye Mao [Male]  </item>
+        <item> Dr.Zhan Siyu [Male] </item>
+        <item> Asso.Prof.ZHANG Ke {Male] </item>
+        <item> Dr.Zhao Yong [Male]  </item>
+        <item> Dr.Zhong Xiuqin [Female]  </item>
+        <item> Asso.Prof.	ZHOU JUNLIN [Male] </item>
+        <item> Ass.Prof.Zhou Yi [Male] </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Staff_10">
+        <item> Dr.	Cao Sheng [Male] </item>
+        <item> Dr. Chen Bo [Male] </item>
+        <item> Asso.Prof.Chen Dajiang [Male] </item>
+        <item> Dr.Chen Jia [Female] </item>
+        <item> Vice Prof.DENG Jianhua [Male] </item>
+        <item> Asso.Prof.Ding Yi [Male]  </item>
+        <item> Asso.Prof.FU CHONG [Male] </item>
+        <item> Vice Prof.Guo Jiandong [Male] </item>
+        <item> Asso.Prof.Hao Zongbo [Male]  </item>
+        <item> Prof.Jiang Wei [Male] </item>
+        <item> Dr.	Kuang Ping [Male] </item>
+        <item> Asso.Prof. 	Lan Tian [Male] </item>
+        <item> Asso.Prof.	Lan Tian [Female] </item>
+        <item> Dr.LIAO Yong [Male] </item>
+        <item> Dr.Liao Yongjian [Male]  </item>
+        <item> Asso,Prof.Lin Di [Male] </item>
+        <item> Asso.Prof.Liu Qiao [Male] </item>
+        <item> Asso.Prof.Luo Xucheng [Male]  </item>
+        <item> Asso.Prof.Qian Weizhong [Male]</item>
+        <item> Asso.Prof.Qin Zhen [Male] </item>
+        <item> Prof.Qin Zhiguang [Male]  </item>
+        <item> Prof.	Rao Yunbo [Male] </item>
+        <item> Prof.She Kun [Male] </item>
+        <item> Asso.Prof.Su Sheng [Male]  </item>
+        <item> Prof.TIAN Wenhong [Male] </item>
+        <item> Prof.Wang Qingxian [Female] </item>
+        <item> Prof.Wang Zhiguo [Male]  </item>
+        <item> Prof.Wen Jun [Male] </item>
+        <item> Prof.WU Jia [Female] </item>
+        <item> Dr.Wu Jin [Female] </item>
+        <item> Dr.WU XIAOHUA [Female]</item>
+        <item> Prof.Xiong Hu [Male]</item>
+        <item> Prof.Yang Shangming [Male] </item>
+        <item> Prof.Yin Guangqiang </item>
+        <item> Asso.Prof.Yu Yongbin [Male]</item>
+        <item> Prof.Zhang  Fengli [Female]  </item>
+        <item> Dr.	Zhang Xue [Male] </item>
+        <item> Asso.Prof.Zhao Yang [Male]</item>
+        <item> Prof.Zhong Ting [Female] </item>
+        <item> Asso.Prof.Zhou Erqiang (周尔强) [Male] </item>
+        <item> Asso.Prof.Zhou Fan [Male] </item>
+        <item> Prof. ZHOU Shijie [Male]  </item>
+        <item> Dr.Zhu Guobin [Male] </item>
+        <item> </item>
+    </string-array>
+    <string-array name="Staff_11">
+        <item> Dr.Deng Zhiliang {Male] </item>
+        <item> Dr.	Jing Yanfei [Male]</item>
+        <item> Prof. KONG EFANG [Female] </item>
+        <item> Prof. Leng Jinsong [Male] </item>
+        <item> Asso.Prof. 	Li   Liang [Male] </item>
+        <item> Prof. XIA Yingcun [Male]  </item>
+        <item> Prof. Xiang Zhaoyin [Male] </item>
+        <item> Prof. Xiao Yibin [Male] </item>
+        <item> Prof. Zhao XiLe [Male] </item>
+        <item>  </item>
+
+    </string-array>
+    <string-array name="Staff_12">
+        <item> Prof. Benjamin Becker [Male] </item>
+        <item> Prof.	Bharat Biswal [Male]</item>
+        <item> Prof.Chen Huafu [Male] </item>
+        <item> Dr.Chen Huafu [Female] </item>
+        <item> Dr.	FENG Juan [Female] </item>
+        <item> Asso.Prof.GUO Daqing  [Male]  </item>
+        <item> Prof. Guo Fengbiao [Male] </item>
+        <item> Prof.HUANG JIAN [Male] </item>
+        <item> Dr.	 Lai Yongxiu [Female] </item>
+        <item> Prof.Li Ling [Female] </item>
+        <item> Dr.LIN Hao [Male] </item>
+        <item> Prof.Liu Jiankui [Male]  </item>
+        <item> Prof.Liu Yiyao [Male] </item>
+        <item> Prof. Maharachchikumbura Sajeewa [Male] </item>
+        <item> Prof.Pedro Antonio Valdes Sos [Male]  </item>
+        <item> Prof.RAO Nini [Female] </item>
+        <item> Prof.Tang Lixia [Female] </item>
+        <item> Dr. WANG Ling [Female]  </item>
+        <item> Dr.WANG Xinyan [Male] </item>
+        <item> Dr.WU Chunhui [Female] </item>
+        <item> Ass.Prof. WU Zhe [Male] </item>
+        <item> Dr.	XIE Guangbo [Male]</item>
+        <item> Dr.Xu Peng [Male] </item>
+        <item> Prof.Yan Hongmei [Female]  </item>
+        <item> Asso.Prof.Yang Hong [Female] </item>
+        <item> Prof.YANG Zujun [Male] </item>
+        <item> Prof.Yao Dezhong [Male]  </item>
+        <item> Prof.YOU Zili [Male] </item>
+        <item> Dr.Zeng Hongjuan [Female] </item>
+        <item> Dr.Zeng Hongjuan [Male] </item>
+        <item> Dr.	Zhang Junjun [Male]  </item>
+        <item> Dr.Zhang Yuanchao [Male] </item>
+        <item> Dr.ZHOU JIANPING [Male] </item>
+        <item> Dr.ZHOU Peng [Male]  </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Staff_13">
+        <item> Dr.Chai Junwu [Male] </item>
+        <item> Dr.Chen Lu [Female] </item>
+        <item> Prof.Du Yifei [Male] </item>
+        <item> Prof.Feng Tianli [Female] </item>
+        <item> Prof.HE Zheng [Female] </item>
+        <item> Dr. Shao Yunfei [Female] </item>
+        <item> Dr.WANG Bingjie [Female]</item>
+        <item> Asso.Prof.WANG Guofeng [Male] </item>
+        <item> Prof.	WU, Jihong [Female] </item>
+        <item> Asso.Prof.XIAO Wen [Female] </item>
+        <item> Dr.Xiao Yangao [Male] </item>
+        <item> Prof.Bai Chunguang [Female] </item>
+        <item> Prof.Chen Guangyu {Male] </item>
+        <item> Dr.Ding Ya [Female] </item>
+        <item>Asso.Prof.Fang Jiaming [Male]  </item>
+        <item> Dr.Feng Yi [Male] </item>
+        <item> Asso.Prof.	Decui Liang [Male] </item>
+        <item>Dr.Ma Jie [Female]  </item>
+        <item> Prof.Mu Yinping [Male] </item>
+        <item> Dr.SONG Na [Female] </item>
+        <item> Prof.Tang Zhiwei [Male]  </item>
+        <item> Asso.Prof.YAN Pengyu [Male] </item>
+        <item> Prof.Yin Yuming [Female] </item>
+        <item>   </item>
+    </string-array>
+    <string-array name="Staff_14">
+        <item> Prof.Zhu Xiaoning [Male] </item>
+        <item> Prof.	Xue Xiaodong [Male]</item>
+        <item> Prof.Tang Zhiwei [Male] </item>
+        <item> Prof.Xie Mei </item>
+        <item> Prof.Zhao Shurong [Female] </item>
+        <item> Prof. Shen Hua [Female]  </item>
+        <item> Prof.Han Hong </item>
+        <item> Prof.Luo Ruoyu [Female] </item>
+        <item> Prof.Yang Jing [Female]  </item>
+        <item> Prof.Yang Jing [Female] </item>
+        <item> Prof.	Zhan Xun [Female] </item>
+        <item> Prof.Gao Tianpeng [Male] </item>
+        <item> Prof.	Zeng Weixi [Male]</item>
+        <item> Prof.Zhang Huiping [Male]</item>
+        <item> Asso.Prof.YANG Xi [Male] </item>
+        <item> Asso.Prof.Xiao Shiwei  [Male] </item>
+        <item> Asso.Prof.	Li Bing [Female] </item>
+        <item> Asso.Prof.Liu Linghui [Male]  </item>
+        <item> Asso.Prof.	Wang Luhao [Male]</item>
+        <item> Asso.Prof.Shi Yifan [Female] </item>
+        <item> Asso.Prof.	GU YI [Male] </item>
+        <item> Asso.Prof.LIU Xuan [Female] </item>
+        <item> Asso.Prof.Zhang Qin [Female] </item>
+        <item>   </item>
+    </string-array>
+    <string-array name="Description_1">
+        <item> Signal and Information Processing Technology /Supervisor for Msc Only </item>
+        <item> Millimeter Wave Antenna Array Synthesis; Phased Array Technology; Embedded System Design/ Supervisor for Msc only </item>
+        <item> Radar resource management, target tracking, performance evaluation, data fusion/ Supervisor for Msc only </item>
+        <item> Array signal processing, compressive sensing, adaptive signal processing/ Supervisor for Msc only </item>
+        <item> 	Signal processing and its applications in radar, communications / Supervisor for Msc only </item>
+        <item> 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing)/ Supervisor for Msc only  </item>
+        <item> 	Wireless localization , array signal processing, optimization, spectral estimation/ Supervisor for Msc only </item>
+        <item> Signal detection and estimation; Adaptive signal processing; Waveform optimization; Radar system and signal processing/ Supervisor for Msc only </item>
+        <item> Integrated Circuits and Systems for Communication and Signal Processing,Wireless and Mobile Communication/ Supervisor for Msc only </item>
+        <item> Signal processing and its applications in radar, communications, smart grid, and sensor networks/ Supervisor for Msc only </item>
+        <item> Signal detection and estimation, Adaptive signal processing/ Supervisor for PhD and Msc </item>
+        <item> 	04光纤传感与通信Optical Fiber Sensing and Communication/ Supervisor for Msc Only </item>
+        <item> Communication Networks Theory and Technology,Wireless and Mobile Communication/ Supervisor for PhD and Msc </item>
+        <item> Integrated Circuits and Systems for Communication and Signal Processing, Wireless and Mobile Communication)</item>
+        <item> Internet Technology and Theory, Wireless and Mobile Information Network, Multimedia Communication and Processing Technology/  Supervisor for Msc only </item>
+        <item> 03无线与移动通信(Wireless and Mobile Communication/ Supervisor for Msc only </item>
+        <item> radar sensor networks, target identification, compressive sensing, fuzzy logic systems, wireless communications/ Supervisor for Msc only  </item>
+        <item> 01通信网络理论与技术(Communication Networks Theory and Technology) 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for Msc only </item>
+        <item> 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing) 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for Msc only</item>
+        <item> OFDM System, Digital Video Transmission, Signal Processing for Wireless Communication, Smart Grid/  Supervisor for PhD and Msc </item>
+        <item> 01通信网络理论与技术(Communication Networks Theory and Technology) 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for Msc only </item>
+        <item> Signal and Information Processing/ Supervisor for Msc only </item>
+        <item> Wireless Sensor Networks;CPS;DSP;DTN/ Supervisor for Msc only </item>
+        <item> Communication signal processing/  Supervisor for Msc only </item>
+        <item> Radar Electronic Warfare theory、technology and system;Radar  ECCM/ Supervisor for Msc only </item>
+        <item> He is a senior researcher with experience in the following areas: (1) statistical signal processing, adaptive signal processing, high speed real-time signal processing; (2) software radio, digital communication system, radar systems; (3) Electronic technology in civil aviation, e.g. multilateration, ADS-B, etc./ Supervisor for Msc only </item>
+        <item> 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing)/ Supervisor for Msc only </item>
+        <item> Image processing, pattern recognition, MRI   processing, Artificial Intelligence/ Supervisor for Msc only </item>
+        <item> 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing)03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for PhD and Msc </item>
+        <item> Spectral analysis and array signal processing, Communication signal and information processing./ Supervisor for Msc only </item>
+        <item> 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing) 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for PhD and Msc </item>
+        <item> 01通信网络理论与技术(Communication Networks Theory and Technology) 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing) 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for Msc only </item>
+        <item> 04光纤传感与通信(Optical Fiber Sensing and Communication)/Supervisor for Msc only </item>
+        <item> Image processing; Image/video analysis and understanding; Computer vision; Visual motion tracking/capturing/recognition; Statistical learning and pattern recognition and data analysis; Biomedical image processing and medical applications/ Supervisor for PhD and Msc </item>
+        <item> 01通信网络理论与技术(Communication Networks Theory and Technology)/Supervisor for PhD and Msc </item>
+        <item> 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for Msc only </item>
+        <item> 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for Msc only </item>
+        <item> 01通信网络理论与技术(Communication Networks Theory and Technology)/ Supervisor for Msc only </item>
+        <item> Cognitive Radio, Wireless Multimedia Communication/ Supervisor for Msc only </item>
+        <item> 04光纤传感与通信(Optical Fiber Sensing and Communication)/ Supervisor for Msc only</item>
+        <item> Wireless communication, array signal processing, compressive sensing, radar signal processing/ Supervisor for PhD and Msc </item>
+        <item> 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing) 03无线与移动通信(Wireless and Mobile Communication)/  Supervisor for Msc only </item>
+        <item> Supervisor for PhD and Msc </item>
+        <item> Image and video coding, streaming and processing, 3D video, multimedia networking and communications, visual perception and applications/ Supervisor for PhD and Msc</item>
+        <item> 02通信集成电路与信号处理(Integrated Circuits and Systems for Communication and Signal Processing) 03无线与移动通信(Wireless and Mobile Communication)/ Supervisor for Msc only </item>
+        <item>Remote Sensing Image Processing /Supervisor for Msc</item>
+        <item>Cloud Computing; Blockchain;Machine Learning/ Supervisor for Msc</item>
+        <item> Quantitative remote sensing, Lidar remote sensing, SAR remote sensing and its application/Supervisor for PhD and Msc </item>
+        <item> Aquatic pollution, microbiology, biosensors, environmental monitoring/Supervisor for PhD and Msc </item>
+        <item>Downhole data intelligent acquisition and processing (borehole geophysics), Induced Seismicity,/Supervisor for PhD  and Msc </item>
+        <item> Image processing and application; Geographic Information System/Supervisor for PhD and Msc </item>
+        <item>• Hydrology and water resources; Spatio-temporal data mining;  Data stream mining; Hydrological remote sensing/Supervisor for PhD and Msc </item>
+        <item>Remote sensing science and technology/Supervisor for PhD and Msc </item>
+        <item>Spatial big data analysis, 3D GIS, High performance Geocomputing/Supervisor for Msc </item>
+        <item> </item>
+
+    </string-array>
+    <string-array name="Description_2">
+        <item> 4G/5G terminal antenna, MIMO terminal antenna,.millimeter wave multibeam antenna array for 5G mobile devices/Supervisor for PhD and Msc  </item>
+        <item> 1,RFMENS,  2,Microwave circuits and RFIC/ Supervisor  for PhD and Msc </item>
+        <item> Microwave Theory and Technology Antenna Theory and Technology/ Supervisor for PhD and Msc </item>
+        <item> Microwave dielectric materials, Electronic thin solid films and integrated devices /Supervisor for Msc only </item>
+        <item> Microwave and Millimeter Wave Technology,Test Systems Technology/ Supervisor for Msc only </item>
+        <item> Terahertz, Vacuum Electronic Devices, Microwave Theory and Applications/Supervisor for PhD and Msc </item>
+        <item> Flexible electrochromic device, flexible energy conversion/storage devices and related materials/ Supervisor for PhD and Msc </item>
+        <item> Thermoelectric materials and devices，Thermal regenerate electrochemical cycle/Supervisor for Msc only </item>
+        <item> Semiconductor Physics, Semiconductor Power Devices, Smart Power Integrated Circuits, CMOS Integrated Circuits./ Supervisor for Msc only </item>
+        <item> Cardiac/Neuro Electrophysiology, Biomedical Electronics and Imaging, Bioelelctromagnetics and Instruments/ Supervisor for Msc only  </item>
+        <item> Teraherz science and technology,e.g.THz transmission conversion,THz sensing,THz wireless communication,THz advanced scanning/ Supervisor for Msc only </item>
+        <item> Integrated Circuit Design, MEMS Readout Circuits, ADC/DAC, Reference Circuits, Artificial Intelligence, Battery Management System, etc./Supervisor for Msc only </item>
+        <item> Microwave Wireless Communication; Microwave Biological Sensing; Millimeter Wave Scaning/Communicating Antenna/ Supervisor for Msc only </item>
+        <item> Microelectronics, Integrated Circuits/Supervisor for PhD and Msc </item>
+        <item> VLSI Design, Nanoscale Devices, AI(Artificial Intelligence),  NDT/E(Nondestructive Testing and Evaluation), Wireless Charging Technology/Supervisor for Msc only </item>
+        <item> (1) antennas; (2) microwave circuits and systems; (3) wireless power transmission and application/Supervisor for PhD and Msc </item>
+        <item> Microelectronics and Solid State Electronics/Supervisor for PhD and Msc </item>
+        <item> Information Materials and Components/ Supervisor for Msc only </item>
+        <item> Particle-in-cell simulation/Supervisor for PhD and Msc </item>
+        <item> High-power   terahertz radiating sources, terahertz quasi-optical components,/Supervisor for PhD and Msc </item>
+        <item> Microelectronics and Solid-State Electronics/Supervisor for PhD and Msc </item>
+        <item> Microelectronics and Solid-State Electronics 01:Novel semiconductor materials and power devices 02:Power Integrated Circuits and Systems  03:Microelectronics theory and technology/Supervisor for PhD and Msc</item>
+        <item> Microelectronics and Solid-State Electronics/ Supervisor for PhD and Msc </item>
+        <item> Electromagnetic Field and Microwave Technology/Supervisor for Msc only </item>
+        <item> Nonlinear filtering, Bayesian multi-target detection and tracking, and information fusion/Supervisor for Msc only </item>
+        <item> Electronic Information Materials and Devices/Supervisor for PhD and Msc </item>
+        <item> HPM technology and systems. MM wave devices and THz devices/ Supervisor for Msc only </item>
+        <item> Biomedical Optics, Medical Imaging, Medical Image Analysis, Artificial Intelligence, Novel Medical Devices/ Supervisor for PhD and Msc </item>
+        <item> Microelectronics and Solid-State Electronics/ Supervisor for PhD and Msc </item>
+        <item> Micro/Millimeter wave MMIC design and modeling, Microwave measurement techniques and Metamaterial analysis and design/ Supervisor for Msc only </item>
+        <item> filter synthesis, microwave passive components design, computational electromagnetics, etc/  Supervisor for Msc only </item>
+        <item>  Anti-jamming (A.J.) and secure communication;communication countermeasure system and signal processing./ Supervisor for Msc only </item>
+        <item> Microelectronics and Solid-state Electronics, Optoelectronics/Supervisor for PhD and Msc </item>
+        <item> Spintronics，Spin Caloritronics，Magnetization Dynamics，Nonequilibrium Thermodynamics,Biophysics/ Supervisor for PhD and Msc </item>
+        <item> Functional and Smart Materials for  electronic information and new energy resources/ Supervisor for Msc only </item>
+        <item> Antenna theory and design/ Supervisor for Msc only </item>
+        <item> Integrated Circuit Design/ Supervisor for Msc only </item>
+        <item> 02 Circuits and Systems( 1. High efficiency power amplifier 2. Transmiiters for the next generations, polar transmitters etc. 3. Broadband supply modulator of high efficiency 4. Compressive sensing receiver and signal recovery algorithm)/Supervisor for Msc only </item>
+        <item> Vacuum microelectronic, Microwave Technology, Graphene and Carbon Nanotube./ Supervisor for PhD and Msc </item>
+        <item> Microelectronics and Solid-State Electronics/ Supervisor for Msc only </item>
+        <item> Microelectronics and Solid-State Electronics/ Supervisor for PhD and Msc </item>
+        <item> Microelectronics and Solid-State Electronics/ Supervisor for Msc only </item>
+        <item> Microwave Solid-State Circuits, Solid-state Terahertz technology/ supervisor for PhD and Msc </item>
+        <item> RF integrated circuits and systems;/ Supervisor for Msc only </item>
+        <item> Wireless Positioning; Aircraft Antenna Interference; High Speed Digital Circuit Electromagnetic Compatibility/Signal Integrity;/ Supervisor for Msc only </item>
+        <item> Electronic Science and Technology/ Supervisor for Msc only </item>
+
+    </string-array>
+    <string-array name="Description_3">
+        <item> 02 Modern mechanisms and robot；05 Computer measurement and control of mechatronics systems/ Supervisor for Msc only</item>
+        <item> 	Control Theory and Application, Embedded Systems, Intelligent Mechatronic Systems, Automotive Research/ Supervisor for Msc only </item>
+        <item> 06 Intelligent mechatronic system and optoelectronic integration；09 Detection, control and automation of manufacturing equipment/ Supervisor for Msc only </item>
+        <item> Mechanical Engineering/ Supervisor for Msc only </item>
+        <item> Reliability Design, Artificial Intelligence and   Design Optimization, Digital Design and Intelligent Manufacturing,   Prognostics and Health Management (PHM), Signal Processing, Reliability of  Industrial Robot,/ Supervisor for PhD and Msc </item>
+        <item> Microfluidics,   Biosensor, Lab-on-chip/ Supervisor for Msc only </item>
+        <item> 07 MEMS/NEMS design and manufacturing; 03 Advanced design technology and design automation;  04 Digital design, simulation and manufacturing;/ Supervisor for Msc  </item>
+        <item> 01 Multidisciplinary design optimization and reliability design  08 Condition monitoring and fault diagnosis/ supervisor for PhD and Msc </item>
+        <item> 08 Condition Monitoring and Fault Diagnosis/ Supervisor for PhD and Msc </item>
+        <item> 04 Digital design, simulation and manufacturing; 10 Modeling and simulation of manufacturing systems/ Supervisor for PhD and Msc </item>
+        <item> Modeling, analysis and design of electromagnetic compatibility; Electromagnetic field and multi-physics computation and simulation-based design./Supervisor for Msc </item>
+        <item> 04 Digital design, simulation and manufacturing/ Supervisor for Msc </item>
+        <item> Reliability Engineering; Prognostic and Health Management; Artificial Intelligence and Big Data;Optimization Design; Data Mining; Software Engineering/Supervisor for PhD and Msc </item>
+        <item> Vibration monitoring and signal processing, Mechanical system dynamic modelling, Mechancial system reliability, Machine learning techniques/ Supervisor for MSc </item>
+        <item> 04 Digital design, simulation and manufacturing；09 Detection, control and automation of manufacturing equipment/Supervisor for PhD and Msc </item>
+        <item> 01 Multidisciplinary design optimization and reliability design;02 Modern mechanisms and robot; 04 Digital design, simulation and manufacturing/ Supervisor for PhD and Msc </item>
+        <item> Microfluidics, Biosensor, Lab-on-chip/ Supervisor for PhD ad Msc </item>
+        <item> Mechanical Engineering/ Supervisor for Msc </item>
+        <item> 01 Multidisciplinary design optimization and reliability design；04 Digital design, simulation and manufacturing/Supervisor for Msc </item>
+        <item> 05 Computer measurement and control of mechatronics systems；09 Detection, control and automation of manufacturing equipment；10 Modeling and simulation of manufacturing systems/Supervisor for Msc </item>
+        <item> 04 Digital design, simulation and manufacturing 08Condition monitoring and fault diagnosis 09Detection, control and automation of manufacturing equipment/ Supervisor for PhD and Msc </item>
+        <item> Reliability-based   on design optimization(RBDO); Monitor NC cutting process/Supervisor for Msc </item>
+        <item> Reliability   design for mechanical system,  data   fusion for mechanical system performance, Multidisciplinary design   optimization/Supervisor for Msc </item>
+        <item> Digital design, simulation and manufacturing/Supervisor for PhD and  Msc </item>
+        <item> Multidisciplinary design optimization and reliability design; Condition monitoring and fault diagnosis; Fatigue design and life prediction/ Supervisor for PhD and Msc </item>
+        <item>  </item>
+        <item>Printed fexible electronics;  Two-dimensional materials: preparation and application Nano-silver materials: preparation and application Semiconductor optoelectronic materials and devices/Supervisor for PhD and Msc </item>
+        <item>Semiconductor, photovoltaics./Supervisor for PhD and Msc  </item>
+        <item>Synthesis, modification and industrialization of super engineering   thermoplastics of polyarylene ethers;Optical biomedical sensors/Supervisor for Msc </item>
+        <item>	01Electronic Information Materials and Devices;02Materials Gene Project;  03Electronic Film and Integrated Devices; 04New Energy Materials and Devices;05Printed Circuits and Printed Electronic Technology; 06Organic Functional Materials and Engineering/Supervisor for Msc</item>
+        <item> New   Energy Materials and Devices；Lithium ion battery and solid state battery/Supervisor for PhD and Msc</item>
+        <item> 01Electronic Information Materials and Devices;02Materials Gene Project;  03Electronic Film and Integrated Devices; 04New Energy Materials and Devices;05Printed Circuits and Printed Electronic Technology; 06Organic Functional Materials and Engineering/Supervisor for Msc</item>
+        <item> Molecular design and chemical synthesis towards advanced functional polymeric   materials Morphology and functionality of inorganic nanomaterials hydrid polymeric composites Macromolecular science and engineering among others/Supervisor for PhD and Msc</item>
+        <item> Electrocatalysis, Li-ion batteries, Na-ion batteries, Zn-ion battteries and Zn-air batteries/Supervisor for Msc </item>
+        <item> 01Electronic Information Materials and Devices 02Materials Gene Project 03Electronic Film and Integrated Devices 04New Energy Materials and Devices; 05Printed Circuits and Printed Electronic Technology; 06Organic Functional Materials and Engineering/Supervisor for PhD  and Msc</item>
+        <item> 1Electronic Information Materials and Devices;  02Materials Gene Project  03Electronic Film and Integrated Devices 04New Energy Materials and Devices  05Printed Circuits and Printed Electronic Technology 06Organic Functional Materials and Engineering/Supervisor for Msc</item>
+        <item> </item>
+    </string-array>
+    <string-array name="Description_4">
+        <item> AC/DC microgrids, grid-connected inverters for renewable energy systems, power quality, active power filters, multilevel converters and static synchronous compensators (STATCOMs)/ Supervisor for PhD and Msc </item>
+        <item> . Renewable Energy   2. Smart Grid and Intelligent Energy Systems/Supervisor for PhD and Msc </item>
+        <item> Smart Grid/ Supervisor for PhD and Msc </item>
+        <item> Smart Grid/ Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item>Power Electronics, Motor Control, Microgrid/Supervisor for Msc </item>
+        <item> 	Power   Electronics/Supervisor for PhD and Msc </item>
+        <item> Power   Electronics/Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item> Smart grid/Supervisor for Msc </item>
+        <item>  </item>
+
+    </string-array>
+    <string-array name="Description_5">
+        <item> Phased array, Time reversal theory, Electromagnetic Meta-surface/Supervisor for PhD and Msc </item>
+        <item> Antenna theory and technology, Time reversal electromagnetics/Supervisor for PhD and Msc </item>
+        <item> nano-optics, nanophotonics, biosensing, micro-/nanofarbication/ Supervisor for PhD and Msc </item>
+        <item> The use of numerical techniques in computational electromagnetics, neural network   model and the use of EM methods for materials characterization and   processing, Time reversal and FDTD./ Supervisor for PhD and Msc</item>
+        <item> Functional nanostructures and their physical properties;Subwavelength Opitcs/Supervisor for Msc </item>
+        <item> String theory, M-theory, Supersymmetry, Gauge theories. Especially superconformal theories in higher dimensions/ Supervisor for PhD and Msc </item>
+        <item> Physical based applications, microwave theory and techniques, antenna and array and   its theory and applications/Supervisor for PhD and Msc </item>
+        <item> Computational Electromagnetics and Its Applications, Antennas and Propagation/Supervisor for PhD and Msc </item>
+        <item> Semiconductor nanomaterial and device,magnetic material and magnetic property/Supervisor for Msc </item>
+        <item> Supervisor for PhD and Msc</item>
+        <item> Advanced Energy Materials and devices such as lithium ion batteries and fuel cells/Supervisor for  Msc </item>
+        <item> Microwave and Millimeter Wave Circuits and Systems/Supervisor for Msc </item>
+        <item> Condensed Matter Physics, Thin Film Epitaxy, Complex Oxide, Photocatalysis, Water   Splitting,/ Supervisor for PhD and Msc </item>
+        <item> Computational electromagnetics/Supervisor for PhD and Msc </item>
+        <item> Electromagnetic wave propagation and scattering, computational Electromagnetics, Millimeter   wave circuits and systems/ Supervisor for PhD and Msc </item>
+        <item> Radio Physics/Supervisor for PhD and Msc </item>
+        <item> Detection of poisonous gases, Metamaterials in electromagnetics,Methanol fuel./Supervisor for Msc </item>
+        <item> Computer simulation of functional materials/Supervisor for PhD and Msc </item>
+        <item> Elelctromagnetic radiation and antenna/Supervisor for PhD and Msc </item>
+        <item> Quamtum   Piezotronics, functional nanostructures and their physical properties/Supervisor for PhD and Msc </item>
+        <item> </item>
+
+    </string-array>
+    <string-array name="Description_6">
+        <item> 01 Optic communication and optic integration/Supervisor for PhD and Msc </item>
+        <item> Info display, Nano Optoelectronic Material and Devices/Supervisor for Msc </item>
+        <item> Thermocromic materials, smart materials and sensors, novel nanomaterials and applications thereof./Supervisor for PhD and Msc </item>
+        <item> Energy material and technology, Optoelectronic device, Micro-and Nanofabication/Supervisor for PhD and Msc </item>
+        <item> 01 Optic communication and optic integration; 05 Microwave photonics/Supervisor for Msc  </item>
+        <item> Nanophotonics;Sensors, Integrated optoelectronics/Supervisor for PhD and Msc </item>
+        <item> Optic communication and optic integration;Photoelectric Detection and System Integration/Supervisor for PhD and Msc </item>
+        <item> Advanced photovoltaic devices, including solar cells and photodetectors; Flexible materials and devices, including sensors and electronic skin/Supervisor for PhD and Msc </item>
+        <item> Optoelectronic detecting and the integrated devices; sensitive materials and the sensor technologies/ Supervisor for PhD and Msc </item>
+        <item> We are interested in the design of novel 2D materials system and their application in nanoscale electronics and optoelectronics/Supervisor for PhD and Msc </item>
+        <item> 01 directions: optical communication and integrated optics 02 directions: laser technology and its application 07 directions: photoelectric measurement and control and instrument/Supervisor for Msc </item>
+        <item> 01 directions: optical communication and integrated optics 02 directions: laser technology and its application 07 directions: photoelectric measurement and control and instrument/Supervisor for PhD and Msc </item>
+        <item> Optical nonlinearities and applications, optical fiber technologies and photonic integration/Supervisor for PhD and Msc </item>
+        <item> LED lighting, opto-electronic materials, opto-electronic devices/Supervisor for Msc </item>
+        <item> Fiber optics, fiber lasers and amplifiers, nonlinear optics./Supervisor for Msc </item>
+        <item> Uncooled Infrared Detectors, Uncooled Terahertz Detectors, Terahertz Metamaterials/Supervisor for PhD and Msc </item>
+        <item> Organic Light-emitting device, Organic Photovolataic, Sensor based on Organic Thin Film Transistor/Supervisor for PhD and Msc </item>
+        <item> Optical Engineering/Supervisor for Msc </item>
+        <item> 01 directions: optical communication and integrated optics 02 directions: laser technology and its application 07 directions: photoelectric measurement and control and instrument/Supervisor for Msc </item>
+        <item> High-speed optoelectronics devices and Microwave photonics/Supervisor for PhD and Msc </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Description_7">
+        <item> 01 Wideband Time-domain Testing Technology and Instruments/02 Comprehensive Test, Diagnosis and Prediction of Electronic System/05 New Sensing Technology and Precision Measurement/Supervisor for PhD and  Msc  </item>
+        <item> High-speed/High-precision data acquisition, Time-domain testing technology and instruments, Sensing Technology and Precision Measurement/Supervisor for Msc </item>
+        <item> Wideband Time-domain Testing Technology and Instruments/Supervisor for Msc </item>
+        <item> Detection Technology and Automation Device, Sensors,  Internet of Things,electromagnetic sensors, non-destructive testing and evaluation, structural health monitoring,/ Supervisor for PhD and Msc </item>
+        <item>01 Wideband Time-domain Testing Technology and Instruments/02 Comprehensive Test, Diagnosis and Prediction of Electronic System/Supervisor for PhD and Msc </item>
+        <item> 	01 Wideband Time-domain Testing Technology and Instruments/02 Comprehensive Test, Diagnosis and Prediction of Electronic System/04Integrated Circuit Test and Testability Design Theory and Technology/Supervisor for PhD and Msc </item>
+        <item> Wideband Time-domain Testing Technology and Instruments/Supervisor for Msc </item>
+        <item> Wideband Time-domain Testing Technology and Instruments/ Supervisor for PhD and Msc </item>
+        <item> New Sensing Technology and Precision Measurement;Comprehensive Test, Diagnosis and Prediction of Electronic System;Integrated Circuit Test and Testability Design Theory and Technology/Supervisor for Msc </item>
+        <item> Wideband Time-domain Testing Technology and Instruments/Supervisor for Msc </item>
+        <item> 01.Wideband Time-domain Testing Technology and Instruments;02.Comprehensive Test, Diagnosis and Prediction of Electronic System;05.New Sensing Technology and Precision Measurement/Supervisor for Msc </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Description_8">
+        <item> Renewable Energy   2. Smart Grid and Intelligent Energy Systems/ Supervisor for PhD and Msc </item>
+        <item> Power Electronics and Motion Control，Intelligent Control;Image Processing;New Energy System;Electric Vehicles;Networked Control System；Fault Diagnosis and Tolerance/Supervisor for PhD and Msc </item>
+        <item> 01 Complex systems and intelligent information processing 03 Pattern recognition and intelligent system/Supervisor for PhD and Msc</item>
+        <item> 1)remote sensing image processing and feature extraction, remote sensing mechanism and application; 2) artificial intelligence, deep learning, geostatistics, spatial data mining; 3)climate change/Supervisor for PhD and Msc </item>
+        <item> Statistical signal processing, blind source separation, machine learning, audio and image signal processing, social signal processing and multi-physic mathmaticl modeling in Non-Destructive Evaluation (NDE), Thermography/Supervisor for PhD and Msc </item>
+        <item> Modern Signal Processing and Detection Technology, Measurement and Control Communication and Navigation Control/Supervisor for PhD and Msc </item>
+        <item> Precision measurement, signal processing, wireless sensor networks and data fusion/Supervisor for Msc </item>
+        <item> 04 Computer Vision and Pattern Recognition；09 Robot Technology and System；10 Multi-media Data Mining/Supervisor for Msc </item>
+        <item> New energy system and control technology/Supervisor for Msc </item>
+        <item> 01 复杂系统与智能信息处理(Complex systems and intelligent information processing) 03 模式识别与智能系统(Pattern recognition and intelligent system) Supervisor for Msc </item>
+        <item> Intelligent Information Processing and Control; Computer Vision and Pattern Recognition/Supervisor for Msc </item>
+        <item> Detection technology and automation device、Complex systems and intelligent information processing、Pattern recognition and intelligent system/Supervisor for Msc</item>
+        <item> Control Theory and Control Engineering,  Scanning Probe Microscope Control, Precision Positioning and Motion Control , Control Technology and Intelligent Information Processing in Renewable Power Generation System and Smart Grid/Supervisor for Msc </item>
+        <item> 01 Complex systems and intelligent information processing 02 New energy system and control technology/Supervisor for PhD and Msc </item>
+        <item> Computer Vision and Pattern Recognition, Robot Technology and System, Multi-media Data Mining/Supervisor for PhD and Msc </item>
+        <item> Intelligence Control, Wavelet, Sampling/Supervisor for Msc </item>
+        <item> 	System complexity, New energy technology/supervisor for PhD and Msc </item>
+        <item> 01 Complex systems and intelligent information processing;03 Pattern recognition and intelligent system/Supervisor for Msc </item>
+        <item> 01 Complex systems and intelligent information processing 02 New energy system and control technology 03 Pattern recognition and intelligent system/Supervisor for PhD and Msc </item>
+        <item> Pattern recognition and intelligent system/Supervisor for Msc </item>
+        <item>Measurement and Control Communication and Navigation Control/Supervisor for Msc </item>
+        <item>1.Intelligent Information Processing and Control; 2.Complex System Control and Optimization;3.Computer Vision and Pattern Recognition; 4.Intelligent System and Application; 5.Robot Technology and System/Supervisor for PhD and Msc </item>
+        <item>Intelligent Information Processing and Control; Computer Vision and Pattern Recognition; Intelligent System and Application; Measurement and Control Communication and Navigation Control./Supervisor for PhD and Msc </item>
+        <item>1.Intelligent Information Processing and Control; 2.Complex System Control and Optimization;3.Computer Vision and Pattern Recognition; 4.Intelligent System and Application; 5.Robot Technology and System./Supervisor for PhD and Msc </item>
+        <item> Intelligent Information Processing and Control,Intelligent System and Application and Robot Technology and System/Supervisor for Msc</item>
+        <item>Detection technology and automation device;Complex systems and intelligent information processing/Supervisor for Msc </item>
+        <item>Complex systems and intelligent information processing；New energy system and control technology；Pattern recognition and intelligent system；TT and Ccommunication and navigation control；Detection technology and automation device/Supervisor for PhD and Msc </item>
+        <item>	Robot Technology and System/Supervisor for Msc </item>
+        <item>Aircraft system engineering/Supervisor for PhD and Msc </item>
+        <item>. Intelligent Information Processing and Control; 5. Intelligent System and Application/Supervisor for PhD and Msc </item>
+        <item>1) machine learning, intelligent system (2) exoskeleton/robot technology, (3) body sensor network/Supervisor for Msc </item>
+        <item>Complex System Control and Optimization; New Energy System Control Technology; Power Electronics and Motion Control/Supervisor for Msc </item>
+        <item>Detection Technology and Automation Device/Supervisor for Msc </item>
+        <item> </item>
+    </string-array>
+    <string-array name="Description_9">
+        <item> Computer network and communication; network and system security; cloud computing and big data processing/Supervisor for Msc </item>
+        <item> Cloud Computing, Computer and Network Security, Software Security / Supervisor for Msc </item>
+        <item> Data mining, Information physics, Complex network,  Spreading and recommending/Supervisor for Msc </item>
+        <item> Computer Vision, Data Mining, Biomedical Imaging, Pattern Recognition, Machine Learning/Supervisor for Msc </item>
+        <item> Computer Graphics, Digital Image Processing, Virtual Reality, Digital Media Technology/Supervisor for PhD and Msc </item>
+        <item> Computational Intelligence; Data mining and Database; Compiler theory and Formal method, et al./Supervisor for PhD and Msc </item>
+        <item> Computer Networks, Information Security, Embedded Systems/Supervisor for Msc </item>
+        <item> (Computing Intelligence)/Supervisor for Msc </item>
+        <item> Big Data Processing, Distributed  Storage, Pattern Recognition, Multimedia Content Distribution Network/Supervisor for Msc </item>
+        <item> Pattern Recognition,  Cryptography, Security Protocol, Network Application/Supervisor for PhD and Msc </item>
+        <item> Pattern Recognition, Machine Learning, Biometrics, Cryptography, Image Processing and Analysis/Supervisor for Msc </item>
+        <item> 	Data Mining, Formal verification,  Image Processing and Analysis/Supervisor for PhD and Msc </item>
+        <item> Computer Network and Communication, Cloud Computing and Big Data/ Supervisor for PhD and Msc </item>
+        <item> Information Security, Embedded System, Big Data/Supervisor for Msc </item>
+        <item> P2P Computing, Wireless Sensor Network, Distributed Storage Systems/Supervisor for PhD and Msc </item>
+        <item> 05 计算智能(Computing Intelligence)/Supervisor for Msc </item>
+        <item> Cryptography and Network Security/Supervisor for PhD and Msc</item>
+        <item> Applied Cryptography, Security Protocol/Supervisor for Msc </item>
+        <item> P2P Computing, Wireless Sensor Network/Supervisor for Msc </item>
+        <item> Pattern Recognition, Artificial Intelligence, Face Recognition, Speech Recognition, Image, Video and Speech Processing and Analysis, Big data knowledge discovery/Supervisor for Msc </item>
+        <item> Neural Networks, Machine Learning, Pattern Recognition, Big Data Analysis/Supervisor for PhD and Msc </item>
+        <item> Data mining, statistacal learning and analysis modeling/Supervisor for Msc</item>
+        <item> Graphics, Image Processing,Network Computing/Supervisor for Msc </item>
+        <item>I am interested in Wireless application and system security, including Radio Frequency Identification Techonolgy, Wireless network, Mobile computing and Network Security./Supervisor for PhD and Msc </item>
+        <item> Distributed measurement, Storage area network, 4G communication, Embedded system/Supervisor for Msc </item>
+        <item> Computer networks and communication, Data analysis/Supervisor for Msc </item>
+        <item> Mobile Computing, Cloud Computing, Data Mining /Supervisor for Msc </item>
+        <item> Information Security, Computation Theory, Machine Learning and Pattern Recognition, Cloud computing and Big data/Supervisor for PhD and Msc </item>
+        <item> Digital Media, Computer Graphics, Virtual Reality, Visual Simulation, Computer Network/Supervisor for Msc </item>
+        <item> Neural Networks, Deep Learning, Spiking Coding, NP Problems, Path Problems/Supervisor for PhD and Msc </item>
+        <item> Complex networks, Game theory, Evolutionary dynamics/Supervisor for Msc </item>
+        <item> Digital Media Technology, Computing Intelligence/Supervisor for PhD amd Msc </item>
+        <item> 05 计算智能(Computing Intelligence)/ Supervisor for PhD and Msc </item>
+        <item> Mobile Multimedia Computing, Mobile Payment, Video Codec, Augmented Reality/Supervisor for Msc </item>
+        <item> Internet of Things, Cloud computing, Big data/Supervisor for Msc </item>
+        <item> Software Defined Wireless Network and Information Processing(Big Data)/Supervisor for Msc </item>
+        <item> Semantic Web, Data Mining, Distributed Computing, Middleware /Supervisor for Msc </item>
+        <item> Cryptography, cloud security,big data security,blockchain/Supervisor for Msc </item>
+        <item> P2P network measurements and modeling,  Mobil network privacy preserving /Supervisor for Msc</item>
+        <item> Data Mining, Computer Vision, Biomedical Image Informatics, Pattern Recognition/Supervisor for Msc </item>
+        <item> Image Analysis and Retrieval, Computer Vision, Machine Learning, Text Retrieval/Supervisor for Msc </item>
+        <item> Information Security and Artificial Intelligence/Supervisor for PhD and Msc </item>
+        <item> Big Data Security, Blockchain, Access Control, Network Information Security/Supervisor for Msc </item>
+        <item> Computer network, Wireless Sensor Network, Determined Ethernet, Embedded System/Supervisor for Msc </item>
+        <item> Design and Analysis of Algorithms, Graph Theory and Graph Algorithms, Bioinformatics/Supervisor for PhD and Msc </item>
+        <item> Cryptography, Information security/Supervisor for PhD and Msc </item>
+        <item> Multi-agent and Robotics System, Distributed Artificial Intelligent, Semantic Web, Mobile sensor network/Supervisor for Msc </item>
+        <item> Theory of Computation;  artificial intelligence and Pattern recognition; Computer graphics and image processing; Cloud computing and big data processing; Digital Media Technology./Supervisor for PhD and Msc </item>
+        <item> Distributed system, cloud computing/Supervisor for Msc </item>
+        <item> Computing Intelligence, Big Data/Supervisor for Msc </item>
+        <item> Cloud/Grid Computing, Data Mining, Software and System Reliability/Supervisor for PhD and Msc </item>
+        <item> Formal verification, logic synthesis in quantum computing and non-linear control theory/Supervisor for PhD and Msc </item>
+        <item> Public-key Cryptography, Security in Cloud Computing, Security in Big Data/Supervisor for Msc </item>
+        <item> Multimedia Search/Hashing/Captioning/Tagging/Annotation/Event Detection Cross-Media Computing/Multimedia Applications Social Event Detection/Discovery/Modelling/Tracking/Summarization Deep Learning, Transfer Learning, Semi-supervised Learning, Clustering/Supervisor for PhD and Msc </item>
+        <item>  Computer Vision and Pattern Recognition: The final research goal is to facilitate the communication between people and machine. Blind Source Separation: The final research goal is to extract the hidden information from complex situations./Supervisor for PhD and Msc </item>
+        <item> computer networks, web Intelligence, embedded systems/Supervisor for Msc </item>
+        <item> Supervisor for Msc </item>
+        <item> Cloud computing, Big data, Resource management, Task scheduling, Cloud workflow /Supervisor for Msc </item>
+        <item> Automated reasoning, Ontology, Cognitive Model/Supervisor for Msc </item>
+        <item> Data Mining, Recommender System, Big data Processing and Analysis, Social network analysis/Supervisor for Msc </item>
+        <item> 05 Computing Intelligence/Supervisor for Msc </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Description_10">
+        <item> Block chain Database, Online education Software and Electronic Election/Supervisor for Msc</item>
+        <item> Computational Intelligence, Network Computing, eCommerce/ Supervisor for Msc </item>
+        <item> Wireless security,/Supervisor for Msc </item>
+        <item> Cloud Computing,Big Data, Semantic Web and Intelligent Agent etc/Supervisor for Msc </item>
+        <item> Statistical machine learning, Artificial intelligence, Deep learning, wireless communications/Supervisor for Msc </item>
+        <item> Medical Image Processing(Segmentation, Registration, Fusion), Computer-Aided Diagnosis(CAD), Virtual Surgery Technologies/Supervisor for Msc </item>
+        <item> software technique of cloud computing, network security technique and its application big data processing/Supervisor for Msc </item>
+        <item> Software Engineering, Artificial Intelligence and Pattern Recognition./Supervisor for Msc </item>
+        <item> Deep Learning, Image Processing, Surveillance based on Videos /Supervisor for Msc </item>
+        <item> Optimization   of AI, Embedded Real-time Systems,/Supervisor for PhD and Msc </item>
+        <item> Image Processing, Deep Learning, Pattern Recognition. Etc. /Supervisor for Msc </item>
+        <item> Machine   learning, speech enhancement and recognition, natural language processing/Supervisor for Msc </item>
+        <item> BigData，Quantum Machine Learning/Supervisor for Msc </item>
+        <item> 	Embedded System, Real-Time Computing, Multi-core Computing/Supervisor for Msc </item>
+        <item> Cryptography   and Information Security/Supervisor for Msc </item>
+        <item> Software Theory and Technology，Cloud Computing Software Technology/Supervisor for Msc </item>
+        <item> Data mining, Big data analysis, Recommender systems/Supervisor forPhD and Msc </item>
+        <item> 	Software Defined Networking, Network Measurement, Online Social Network/Supervisor for Msc </item>
+        <item> Software Theory and Technology/Supervisor for Msc </item>
+        <item> Data   Fusion and Analysis, Data Privacy Protection, Mobile Internet, Data based   Service Recommendation/Supervisor for PhD and Msc </item>
+        <item> Network security/supervisor for PhD and Msc </item>
+        <item> Video and Image Processing;Video Content Analysis, Pattern Recognition Video Coding and Compression; Video Streaming and Networking; Graphics, Crowd animation; Video enhancement/Supervisor for PhD and Msc </item>
+        <item> Dew computing, Asymmetric Cloud Security/Supervisor for PhD and Msc </item>
+        <item> Artificial   Intelligence, Evolutionary Computing/Supervisor for Msc </item>
+        <item> Resource Scheduling and Management in Cloud Computing and BigData, Approximation Algorithms for NP-Hard Problems, Network Modeling and Performance Optimization/supervisor for PhD and Msc </item>
+        <item> Recommendation   System, Bigdata Alalysis and Application/Supervisor for PhD and Msc </item>
+        <item> Artificial Intelligence,Software Development for Materials Science/Supervisor for PhD and Msc </item>
+        <item> Network technology, cloud computing, big data/Supervisor for Msc</item>
+        <item> Machine   Learning, Deep Reinforcement Learning, Meta-Learning, AutoML, Intelligent   Transportation System/Supervisor for PhD and Msc </item>
+        <item> Software development techniques and process technology, formal methods, high assurance software architecture./Supervisor for Msc </item>
+        <item> Machine Learning, AI Finance, Software   Technology, Wireless Sensor Network, Social Network/Supervisor for Msc </item>
+        <item> 	Information Security and Cryptography/Supervisor for PhD and Msc </item>
+        <item> Artificial   Intelligence, Neural Networks, Pattern Recognitions./Supervisor for PhD and Msc </item>
+        <item> Supervisor for PhD and Msc </item>
+        <item> 01(Software Theory and Technology),04(Embedded Software Technology and Application)/Supervisor for Msc  </item>
+        <item> Mobile data management and application,  network security/Supervisor for PhD and Msc </item>
+        <item> Distributed computing, wireless networking/Supervisor for Msc </item>
+        <item> Information Security and applications/Supervisor for Msc </item>
+        <item> Social   networks, Graph Learning, Spacial Data Learning/Supervisor for PhD and Msc </item>
+        <item> Sentiment analysis, opinion mining Natural language processing (NLP)/ Supervisor for Msc  </item>
+        <item> machine   learning, spatial data mining, graph learning, time-seires mining, Bayesian   learning/Supervisor for Msc</item>
+        <item> Distributed computing, Intelligent Transportation, Network Security, RFID, Big data/Supervisor for PhD and Msc </item>
+        <item> Information   Security and Cryptography/Supervisor for Msc </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Description_11">
+        <item> Numerical Solution of Differential/Integral Equations with Applications/Supervisor for Msc </item>
+        <item> Numerical Linear Algebra and Scientific Computing with Applications/Supervisor for Msc </item>
+        <item> Probability Theory with Applications/Supervisor for PhD and Msc </item>
+        <item> Information   Processing and Wavelet Analysis, Frame Theory and Its Application in Signal   Process/Supervisor for PhD and Msc </item>
+        <item> Scientific   Computation, Data Science/Supervisor for PhD and Msc </item>
+        <item> Probability Theory with Applications/ Supervisor for PhD and Msc </item>
+        <item> Partial Differential Equations and Harmonic Analysis with Applications/Supervisor for PhD and Msc </item>
+        <item> Variational inequalities with applications;   Optimization theory and its applications; Nonsmooth analysis/Supervisor for Msc </item>
+        <item> Modeling   for Image and Visual Processing and High-Performance Numerical Algorithm image   processing and machine learning/ Supervisor for Msc </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Description_12">
+        <item> Preclinical and clinical research strategies that combine advanced multi-modal imaging with neuromodulatory, genetic and pharmacological approaches to determine how the brain controls social, cognitive and emotional behaviors, how and why these become dysfunctional in psychiatric disorders. The ultimate aim is to develop innovative and better treatments for psychiatric disorders/Supervisor for PhD and Msc  </item>
+        <item> Medical Imaging and Image Processing,Biomedical Signal Processing,Medical Informatics,Bioinformatics/Supervisor for PhD and Msc </item>
+        <item> Brain Mapping and Pattern recognition;  Magnetic Resonance imaging, Application in  cognitive science, Neurological and mental disease  includes: Epilepsia, depressive disorder,schizophrenia,autism spectrum disorders/Supervisor for PhD and Msc </item>
+        <item> Constructing biological regulatory network and studying the physical mechanics of the network/ Supervisor for Msc </item>
+        <item> Photobiological physics, Protein engineering/Supervisor for Msc </item>
+        <item> EEG analysis, Brain Computer Interface,Computational neuroscience/Supervisor for PhD and Msc </item>
+        <item> Computational, comparative, evoltuionary and functional genomics/Supervisor for PhD and Msc </item>
+        <item> Bioinformatics and Systems Biology/Supervisor for PhD and Msc </item>
+        <item> Electroencephalography experiments and data analysis/Supervisor for Msc </item>
+        <item> Biomedical signal processing and analysis, algorithms to estimate the brain sources of EEG and ERP, the process of human cognitive underlying EEG/ERP signals, spatio-temporal dynamic analysis of EEG/ ERP, and the neural mechanism of visual attention and working memory./Supervisor for PhD and Msc </item>
+        <item> Designing and using computational approach to study protein and DNA/Supervisor for Msc </item>
+        <item> Fungal Diversity, Taxonomy and Phylogeny, especially in higher taxa ranking (family, order, class, phylum). 2) Fungal Evolution and plant pathogeny; fungal diseases of economically important plants, such as the fungal groups Botryosphaeriales, Diaporthe and Phaeosphaeriaceae. 3) Biological control and secondary metabolites from fungi, as well as its functional genes analyses/ Supervisor for PhD and Msc </item>
+        <item> Cell biomechanics, Signal transduction, Nanomedicine, Nanoscience, Nano-biomaterials/ Supervisor for PhD and Msc</item>
+        <item> Fungal Phylogenetics and Systematics 2) Fungal Diversity and Pathogenicity 3) Fungal Evolution 4) Microbial makeup of rhizosphere/Supervisor for PhD and Msc </item>
+        <item> EEG,Fmri, Neuroimaging, signal process, multimodal neuroimaging fusion/Supervisor for PhD and Msc </item>
+        <item> Biomedical Signal/Image Processing, Genomic Signal Processing, Key Signal Processing Technology in Medical Instruments/Supervisor for PhD and Msc </item>
+        <item> Enzymological and protein engineering studies on microbial enzymes that can be used as biocatalysts in the synthesis of fine chemicals; new enzyme discovery by metagenomic technique; wastewater treatment using immobilized enzyme and bacterial cells./Supervisor for PhD and MSc </item>
+        <item> Neural Mechanism of Vision, Conigtive Psychology, Cognitive Neuroscience, Biomedical Signal Process/Supervisor for Msc </item>
+        <item> Functions of cytokines, adhesion molecules in fish immune system; Alternative splicing of transcription factors in fish immune cells/Supervisor for Msc </item>
+        <item> Nanomedicine for Tumor Imaging and Phototherapy, Biomaterials for Drug Delivery and Controlled Release, Biosensor and Bioanalysis/Supervisor for PhD and Msc </item>
+        <item> Digital Medical Equipment and Technology;Medical Imaging and Image Processing/Supervisor for PhD and Msc </item>
+        <item> Bioactive Natural Products from Plants or Microorgasisms/Supervisor for Msc </item>
+        <item> EEG analysis, Brain Computer Interface/Supervisor for PhD and Msc </item>
+        <item> Visual attention,visual perception/Supervisor for PhD and Msc </item>
+        <item> Developing nanomedicine and drug delivery system in the detection, diagnosis and therapy of cancer./Supervisor for Msc </item>
+        <item> Plant Molecular Cytogenetics, Plant Breeding/Supervisor for PhD and Msc </item>
+        <item> EEG; Brain-Computer interface and Brain-music interaction; EEG-MRI integration and its application in epilepsy/Supervisor for PhD and Msc </item>
+        <item> Neuroimmunology, Neuropharmacology/Supervisor for PhD and Msc </item>
+        <item> Nanomaterial and Bioelectron, Biosensor and Bioanalysis/Supervisor for Msc </item>
+        <item> Health information technology, software development, embeded system development, mobile technology in population health/Supervisor for Msc </item>
+        <item> Visual Information Processing Mechanisms and Image Analysis, Medical Imaging and Image Processing/Supervisor Msc </item>
+        <item> Structural MRI analysis, Brain network analysis/Supervisor for Msc </item>
+        <item> Plant miRNAs and stress; wheat breeding/Supervisor for Msc </item>
+        <item> Structurual Bioinformatics, Computational Biology, and Computer-Aided Drug Design/Supervisor for Msc </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Description_13">
+        <item> Brand Management, Marketing Management, Sales Management, Consumer Behavior/Supervisor for PhD </item>
+        <item> Organization and leadership Creativity, innovation/Supervisor for PhD </item>
+        <item> Innovation Strategy; International Strategy; Business Model Innovation; Strategic and Organizational Change/Supervisor for PhD </item>
+        <item> Corporate Social Responsility, Philanthropy, Social Enterprise  /Supervisor for PhD </item>
+        <item> 	Strategic Management, Innovation, idnsutrial cluster, complexity theory/Supervisor for PhD </item>
+        <item> lTechnology and Innovation Management; Organise and Human Recourse Management/Supervisor for PhD </item>
+        <item> human resource management, organization change, corporate governance /Supervisor for PhD </item>
+        <item> cross-cultural management, leadership, turnover, workplace ostrocism/Supervisor for PhD </item>
+        <item> Strategic Management/Supervisor for PhD and Msc  </item>
+        <item> Business strategy; private and family business research /Supervisor for PhD </item>
+        <item> Management of Intellectual Property Innovation Management Science and Technology Policy/Supervisor for PhD and Msc </item>
+        <item> Sustainable supply chain management, management of technology, and business process management and the environment/Supervisor for PhD </item>
+        <item> Project management; Quality management and reliability engineering/Supervisor for PhD and Msc </item>
+        <item> Agricultural economics/Supervisor for PhD </item>
+        <item> Online user behavior in the context of big data; business intelligence and data mining; Internet product design and e-commerce; social media knowledge management./Supervisor for PhD </item>
+        <item> logistics management, supply chain management, operations management in e-commerce/Supervisor for PhD</item>
+        <item> (1)Information Management and Business Intelligence; (2)Big Data Analysis and Decision; (3)Rough Sets and Granular Computing/Supervisor for PhD </item>
+        <item> Network Governance; Water Conflict and Cooperation;  Regional Economic and Policy Analysis /Supervisor For PhD </item>
+        <item> 	Revenue Management, Supply Chain Management, Pricing Theory, Interface of Operations Management and Marketing/Finance/Supervisor for PhD </item>
+        <item> Financial Engineering, Stocastic Modelling/Supervisor for PhD </item>
+        <item> Public Management(Master):03 Digital Governance;04 Public Crisis Management; Management Science and Engineering(Ph.D): Information Management ,  E-Governance ,  Smart-city;/Supervisor for PhD and Msc </item>
+        <item> 	Project Management, Operations Management in Transportation systems or in Production Systems/Supervisor for PhD </item>
+        <item> International Finance Stock Market Macroeconomics/Supervisor for PhD</item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Description_14">
+        <item> 01 Administrative Management; 02 Public Policy; 03 Digital Governance/ Supervisor for PhD and Msc </item>
+        <item> Public Management 02 Public Policy  03 Digital Governance; 04 Public Crisis Management/Supervisor for Msc </item>
+        <item> Public Management(Master):03 Digital Governance;04 Public Crisis Management; Management Science and Engineering(Ph.D): Information Management ,  E-Governance ,  Smart-city;/Supervisor for PhD and Msc </item>
+        <item> Supervisor for Msc </item>
+        <item> 01 Administrative Management 02 Public Policy 05 Legal Construction and Social Governance/Supervisor for PhD and Msc </item>
+        <item> 01 Administrative Management 02 Public Policy 04 Public Crisis Management/Supervisor for Msc </item>
+        <item> Supervisor for Msc </item>
+        <item> 01 Administrative Management; 02 Public Policy 04 Public Crisis Management/Supervisor for Msc</item>
+        <item> 02 Public Policy 04 Public Crisis Management/Supervisor for Msc </item>
+        <item> 01 Administrative Management; 02 Public Policy; 04 Public Crisis Management/Supervisor for Msc </item>
+        <item> Supervisor for Msc </item>
+        <item> 02 Public Policy; 03 Digital Governance/Supervisor for Msc </item>
+        <item> 	01 Theory and Methodology for Administrative Management 02 Public Service and Public Policy 04 Social Governance and Public Security/ Supervisor for Msc</item>
+        <item> 02 Public Policy; 03 Digital Governance/Supervisor for Msc </item>
+        <item> 01 Administrative Management; 02 Public Policy; 03 Digital Governance/Supervisor for Msc </item>
+        <item> 01 Administrative Management; 04 Public Crisis Management; 05 Legal Construction and Social Governance/Supervisor for Msc </item>
+        <item> 	02Public Service and Public Policy; 04Social Governance and Public Security/Supervisor for Msc </item>
+        <item> 	01 Administrative Management; 02 Public Policy/Supervisor for Msc </item>
+        <item> 01 Administrative Management; 02 Public Policy/Supervisor for Msc </item>
+        <item> 	01 Administrative Management; 02 Public Policy; 05 Legal Construction and Social Governance/Supervisor for Msc </item>
+        <item> 01 Administrative Management; 02 Public Policy/Supervisor for Msc </item>
+        <item> 01 Administrative Management; 02 Public Policy; 04 Public Crisis Management/Supervisor for Msc </item>
+        <item> 01 Administrative Management; 02 Public Policy; 04 Public Crisis Management/Supervisor for Msc </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_1">
+        <item> huichen0929@uestc.edu.cn </item>
+        <item> kesongchen@uestc.edu.cn </item>
+        <item> citrus@uestc.edu.cn </item>
+        <item> huipingduan@uestc.edu.cn </item>
+        <item> ganlu@uestc.edu.cn/ +86028-61831699 </item>
+        <item> gbq@uestc.edu.cn </item>
+        <item> xsguo@uestc.edu.cn </item>
+        <item> cuiguolong@uestc.edu.cn </item>
+        <item> cerelia@uestc.edu.cn/ +8618123361762 </item>
+        <item> 	qianhe@uestc.edu.cn/ +86-15828057718 </item>
+        <item> chshjiang@uestc.edu.cn/+86028-61830535 </item>
+        <item> uestc_nj@uestc.edu.cn/+86-13880417268 </item>
+        <item> spleng@uestc.edu.cn/+86 28 61830520 </item>
+        <item> 	lj001@uestc.edu.cn/ +86028-61830386 </item>
+        <item> longjiangli@uestc.edu.cn/ +8602861830519 </item>
+        <item> LQ@uestc.edu.cn/ +8661831246 </item>
+        <item> liangjing@uestc.edu.cn/ +86028-61831508 </item>
+        <item> jingranlin@uestc.edu.cn/ +86028-61831246  </item>
+        <item> sslin@uestc.edu.cn/ +86-28-61831103 </item>
+        <item> guanghuiliu@uestc.edu.cn </item>
+        <item> liuqiang@uestc.edu.cn/ +8661830519 </item>
+        <item> yipengliu@uestc.edu.cn/ +8661830707 </item>
+        <item> zhouguiyun@uestc.edu.cn/ +86-135-5185-2585 </item>
+        <item> lvming@uestc.edu.cn </item>
+        <item> bint@uestc.edu.cn/ +86028-61830432 </item>
+        <item> whcd@live.cn/+8613568890661 </item>
+        <item> wangjian3630@uestc.edu.cn/ +8613880639846</item>
+        <item> wangshuai0601@uestc.edu.cn </item>
+        <item> wqwang@uestc.edu.cn/+86028-61831338 </item>
+        <item> pwei@uestc.edu.cn/ +86-28-62831880 </item>
+        <item> wgj@uestc.edu.cn/+86028-61830386 </item>
+        <item> changwu@uestc.edu.cn/ +8613880765395 </item>
+        <item> hjwu@uestc.edu.cn/+8613699010975 </item>
+        <item> mxie@uestc.edu.cn/ +86028-61830466 </item>
+        <item> 	xsz@uestc.edu.cn/+862861830256 </item>
+        <item> yanghf@uestc.edu.cn/	+86-28-61831107 </item>
+        <item> cjyou@uestc.edu.cn/ +86-15882020165 </item>
+        <item> yuhf@uestc.edu.cn/+86028-61830353 </item>
+        <item> lyzeng@uestc.edu.cn/+8613908170360 </item>
+        <item> zhangjing1983@uestc.edu.cn/ +86-13880636737 </item>
+        <item> zhying@uestc.edu.cn/ +86-18908216291 </item>
+        <item> zz@uestc.edu.cn/ +86-28-61831105 </item>
+        <item> zhouj@uestc.edu.cn</item>
+        <item> eczhu@uestc.edu.cn/ +86028-61830659 </item>
+        <item> jz@uestc.edu.cn</item>
+        <item> chenfen@uestc.edu.cn </item>
+        <item>gaojb@uestc.edu.cn/+86-13980892536 </item>
+        <item>lishihua@uestc.edu.cn </item>
+        <item>yliang@uestc.edu.cn</item>
+        <item>	huawang@uestc.edu.cn </item>
+        <item> xuwenbo@uestc.edu.cn/+86-13880605460</item>
+        <item> 	qinli.yang@uestc.edu.cn/ 0086-13708184487</item>
+        <item> jzhou233@uestc.edu.cn/+86-15882268350</item>
+        <item>zhouyan_gis@uestc.edu.cn/ +8613608218832</item>
+        <item> </item>
+
+    </string-array>
+    <string-array name="Contact_2">
+        <item> byl@uestc.edu.cn/+8615608030929 </item>
+        <item> baojingfu@uestc.edu.cn/+8661830365 </item>
+        <item> chengyujian@uestc.edu.cn/+86-28-61830310</item>
+        <item> gaolb@uestc.edu.cn/+86-28-83206506 </item>
+        <item> gaoyuanci@uestc.edu.cn/+8613094464250</item>
+        <item> hu_m@uestc.edu.cn </item>
+        <item> cyjia@uestc.edu.cn/	+86028-83201991 </item>
+        <item> 	jiangj@uestc.edu.cn/ +86-028-61831325</item>
+        <item> kmf@uestc.edu.cn/+86028-83201919 </item>
+        <item> dklai@uestc.edu.cn </item>
+        <item> lanfeng@uestc.edu.cn/+86-28-83202149 </item>
+        <item> LRK@jxnajie.com/+86-13808078229 </item>
+        <item> holly@uestc.edu.cn/+86-28-83202103 </item>
+        <item> qli@uestc.edu.cn/+8683208213 </item>
+        <item> lyb@uestc.edu.cn/+8618615767741 </item>
+        <item> xqlin@uestc.edu.cn/+86-28-61830310 </item>
+        <item> linyuan@uestc.edu.cn/+86028-83208813 </item>
+        <item> c_liu@uestc.edu.cn/+86028-83203793 </item>
+        <item> xluo@uestc.edu.cn/+8613982197385 </item>
+        <item> dwliu@uestc.edu.cn/+8618010680187 </item>
+        <item> pingl@uestc.edu.cn/+86028 83206788 </item>
+        <item> xrluo@uestc.edu.cn/+86028-83206788 </item>
+        <item> xluo@uestc.edu.cn or xluo@uestc.edu.cn/+8602861830662 </item>
+        <item> sunxu@uestc.edu.cn </item>
+        <item> tangxu@uestc.edu.cn/+8613618034834 </item>
+        <item> cwang@uestc.edu.cn/+8615928706328 </item>
+        <item> wangzl@uestc.edu.cn/(086)15828594616 </item>
+        <item> zhaowang92@uestc.edu.cn </item>
+        <item> wangzheng@uestc.edu.cn/	+86028-61831345 </item>
+        <item> yqwu@uestc.edu.cn/+86-28-61830812 </item>
+        <item> fxiao@uestc.edu.cn </item>
+        <item> waxiong@uestc.edu.cn/+8618980802389 </item>
+        <item> kaikaix@uestc.edu.cn/+86-28-83208233 </item>
+        <item> yan@uestc.edu.cn/(+86) 18080891397 </item>
+        <item> winner029@126.com/+86028-61830260 </item>
+        <item> yangpeng@uestc.edu.cn/(86)13980743280 </item>
+        <item> yangziqiang@uestc.edu.cn/+86028-61830275 </item>
+        <item> feiyou@uestc.edu.cn </item>
+        <item> bqzeng@uestc.edu.cn </item>
+        <item> xluo@uestc.edu.cn </item>
+        <item> wlzhang@uestc.edu.cn/ +86028-6183-1180 </item>
+        <item> xwzhang@uestc.edu.cn/+86028-6183-1506 </item>
+        <item> yongzhang@uestc.edu.cn/+8661831022 </item>
+        <item> cxzhao@uestc.edu.cn </item>
+        <item> huapengzhao@uestc.edu.cn/+86-1898208259 </item>
+        <item> rbzhong@uestc.edu.cn </item>
+    </string-array>
+    <string-array name="Contact_3">
+        <item> 870430147@qq.com/+8618702841595 </item>
+        <item> 16675261@uestc.edu.cn/+8613880378067 </item>
+        <item> 	pzhzhx@126.com/+8618380403199 </item>
+        <item> guo.w@uestc.edu.cn/+86-18280062417 </item>
+        <item> hzhuang@uestc.edu.cn/+8602861831252 </item>
+        <item> haijiang@uestce.edu.cn/ </item>
+        <item> yflee@uestc.edu.cn/+86028-611830229 </item>
+        <item> YuLiu@uestc.edu.cn/+8613438145132 </item>
+        <item> Zhiliang_Liu@uestc.edu.cn/+8613438832072</item>
+        <item> conglu@uestc.edu.cn/+8613880931790 </item>
+        <item> blnie@uestc.edu.cn/+8618284524402 </item>
+        <item> qiujing@uestc.edu.cn/+8613808219782 </item>
+        <item> tangzhangchun@uestc.edu.cn/+8618328411737 </item>
+        <item> keshengwang@uestc.edu.cn/+8615881145535 </item>
+        <item> wangwhit@163.com/+86-18628257857 </item>
+        <item> wzhonglai@uestc.edu.cn/+8615881043536 </item>
+        <item> xuanweng@uestce.edu.cn</item>
+        <item> ncxiao@uestc.edu.cn/+8618780289856 </item>
+        <item> hwxu@uestc.edu.cn/+8613540322575 </item>
+        <item> hongyvymm@163.com/+8613518184003 </item>
+        <item> wzwyyt@uestc.edu.cn/+86-13678139939 </item>
+        <item> peipei.zhang@uestc.edu.cn </item>
+        <item> xiaolingzh@uestc.edu.cn/+8618908172152 </item>
+        <item> zhouxm@uestc.edu.cn/+86-15196655778 </item>
+        <item> zspeng2007@uestc.edu.cn/+8618384136885 </item>
+        <item> </item>
+        <item>jinjuchen@uestc.edu.cn/+86-28-83207590 </item>
+        <item> haofeng@uestc.edu.cn/fhy7484@163.com</item>
+        <item>jiakun@uestc.edu.cn/+8613551059410 </item>
+        <item>jianxian@uestc.edu.cn/+8613648079577 </item>
+        <item> 	lijingze@uestc.edu.cn/+86028-83207620 </item>
+        <item>bin@uestc.edu.cn/+8615228828124 </item>
+        <item>	liuxb@uestc.edu.cn/+86028-83207326 </item>
+        <item>tanghui@uestc.edu.cn </item>
+        <item>mwu@uestc.edu.cn/+8613072808258 </item>
+        <item> 	shuzhang@uestc.edu.cn/	+81-13668159918</item>
+        <item> </item>
+    </string-array>
+    <string-array name="Contact_4">
+        <item> hanyang@uestc.edu.cn/+8613730606846 </item>
+        <item> whu@uestc.edu.cn </item>
+        <item> hwong@uestc.edu.cn/ +86-028-61831087 </item>
+        <item> chluan@uestc.edu.cn/+86-28-84393518 </item>
+        <item> chenshuheng@uestc.edu.cn/+86-13982185010 </item>
+        <item> guinh3@uestc.edu.cn/+86-13518213208 </item>
+        <item> leejian@uestc.edu.cn/+8618684006120 </item>
+        <item> longbouestc1980@126.com/+8618208178459 </item>
+        <item> siming_pan@uestc.edu.cn </item>
+        <item> minsun@uestc.edu.cn/ </item>
+        <item> ylteng@uestc.edu.cn/+86-28-61830661 </item>
+        <item> yfwu-72@163.com/+86028-61831027 </item>
+        <item> jimbo_yi@uestc.edu.cn/+8613882258220 </item>
+        <item> zhangchanghua@uestc.edu.cn </item>
+        <item> zhangzhenyuan@uestc.edu.cn/+86-15108447851 </item>
+        <item>  </item>
+
+    </string-array>
+    <string-array name="Contact_5">
+        <item> uestcding@uestc.edu.cn </item>
+        <item> xding@uestc.edu.cn </item>
+        <item> yqfu@uestc.edu.cn/+8683202009 </item>
+        <item> cemlab@uestc.edu.cn/+86-28-15228905756</item>
+        <item> xphuang@uestc.edu.cn</item>
+        <item> sungsoo.kim@uestc.edu.cn </item>
+        <item> jialinli@uestc.edu.cn/jialinli@uestc.edu.cn </item>
+        <item> fengliang@uestc.edu.cn/+8618381072509 </item>
+        <item> cmliu@uestc.edu.cn/+8613540730511</item>
+        <item> lvhf01@uestc.edu.cn </item>
+        <item> eselwq@uestc.edu.cn/+86-28-61831884 </item>
+        <item> sxmou@uestc.edu.cn/+86-15108372892 </item>
+        <item> liang.qiao@uestc.edu.cn </item>
+        <item> weishao@uestc.edu.cn </item>
+        <item> wmybrimlhl@163.com/+86028 83202526 </item>
+        <item> xhwang@uestc.edu.cn</item>
+        <item> 2533889840@qq.com/+8613708078390 </item>
+        <item> hyxiao@uestc.edu.cn/+86-28-83202130 </item>
+        <item> xiaoshaoqiu@uestc.edu.cn/+86-28-83208206; +86-13488933009 </item>
+        <item> zhangyan@usetc.edu.cn </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_6">
+        <item> chenkx@uestc.edu.cn/+86028-61830262 </item>
+        <item> zxchen@uestc.edu.cn/	+8618981791789 </item>
+        <item> gudeen@uestc.edu.cn </item>
+        <item> gxw@uestc.edu.cn/+8615828588012 </item>
+        <item>zfhu@uestc.edu.cn/+86028-61830264 </item>
+        <item> lichun@uestc.edu.cn/+86028-83207327 </item>
+        <item> lijianfeng@uestc.edu.cn/+8618781915338 </item>
+        <item> 	shibinli@uestc.edu.cn/luckshibin@gmail.com/+86-28-83201905 </item>
+        <item> wli@uestc.edu.cn/+8613808019859 </item>
+        <item> fucailiu@uestc.edu.cn </item>
+        <item> juanxiul@uestc.edu.cn/+8613551026540 </item>
+        <item> liulin1979@uestc.edu.cn/	+8613551026541 </item>
+        <item> YongLiu@uestc.edu.cn/+86 28 83206481 </item>
+        <item> rhb@uestc.edu.cn/+86028-83202108</item>
+        <item> cwei@uestc.edu.cn </item>
+        <item> xdxu@uestc.edu.cn/+86-28-83208959-801 </item>
+        <item> jsyu@uestc.edu.cn/+86-28-83207157 </item>
+        <item> yuehuimin@uestc.edu.cn/+8683204363 </item>
+        <item> zhangjing@uestc.edu.cn/+8618280268717</item>
+        <item> sjzhang@uestc.edu.cn/+86 -83208629</item>
+        <item>  </item>
+
+    </string-array>
+    <string-array name="Contact_7">
+        <item> yhcheng@uestc.edu.cn/+86028 61830500 </item>
+        <item> 	hwh@uestc.edu.cn/+8613880425460 </item>
+        <item> huiqing_pan@163.com/+86028 61831304 </item>
+        <item> bin_gao@uestc.edu.cn/+8613880704507 </item>
+        <item> shulin@uestc.edu.cn/+86028 61831600 </item>
+        <item> hjwang@uestc.edu.cn/+86028 61831602 </item>
+        <item> yangkuojun@uestc.edu.cn/+868661831305 </item>
+        <item> yepeng@uestc.edu.cn/+86028 61831305 </item>
+        <item> zhanhq@uestc.edu.cn/+86028-61830308</item>
+        <item> zhangqc@uestc.edu.cn/+86028-61831304 </item>
+        <item> weizhang@uestc.edu.cn/+8613194869424 </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_8">
+        <item> whu@uestc.edu.cn </item>
+        <item> ychencd@uestc.edu.cn/+86-28-61830662 </item>
+        <item> hcheng@uestc.edu.cn/	+86028-61830797 </item>
+        <item> chenyp@uestc.edu.cn/+8613678058595</item>
+        <item> bin_gao@uestc.edu.cn/+8613880704507 </item>
+        <item> xianhehuang@uestc.edu.cn/+86 137 0807 6881 </item>
+        <item> xuehaihu@126.com/+8613688480611</item>
+        <item> yanliji@uestc.edu.cn/+8615208461716 </item>
+        <item> lqy1206@126.com/+8613558806013</item>
+        <item> shanliu@uestc.edu.cn/+86-13688384859 </item>
+        <item> liyuxia@uestc.edu.cn/+8613194866449 </item>
+        <item> luyl@uestc.edu.cn/+8613086696528 </item>
+        <item> pcddiy@163.com/+8615680770252 </item>
+        <item> xjwu@uestc.edu.cn/+8613679068274 </item>
+        <item> yanglu@uestc.edu.cn/+8613438930256 </item>
+        <item> zhiguozhang@uestc.edu.cn/+86-18982185686 </item>
+        <item> zyp_002@163.com/+8613540366660 </item>
+        <item> zhengyl@uestc.edu.cn </item>
+        <item> jxzou@uestc.edu.cn/+86-17721888097 </item>
+        <item>chenp@uestc.edu.cn/+86-28-61831083 </item>
+        <item> laijy@uestc.edu.cn/+8618599927469</item>
+        <item>libo@uestc.edu.cn </item>
+        <item>ligun@uestc.edu.cn/+8618628103709 </item>
+        <item>kelly.li@126.com/+8613808061193 </item>
+        <item>allanlxs@uestc.edu.cn/+8618628018567 </item>
+        <item> wangzijun@uestc.edu.cn</item>
+        <item>qwu@uestc.edu.cn </item>
+        <item> mayxiezhou@uestc.edu.cn/+8613981814843</item>
+        <item>xukun@uestc.edu.cn/+86-13540814568 </item>
+        <item>xulimei@uestc.edu.cn/+8613980833373 </item>
+        <item> csxgzhang@uestc.edu.cn/+8613981715998</item>
+        <item> 	zhongqs@uestc.edu.cn</item>
+        <item>hzou82@uestc.edu.cn/+8618980980580 </item>
+        <item> </item>
+
+    </string-array>
+    <string-array name="Contact_9">
+        <item> shimin.cai81@gmail.com/+8618328450991 </item>
+        <item> agchend@gmail.com/+8613688121185 </item>
+        <item> dbchen@uestc.edu.cn/+86-28-61830635 </item>
+        <item> chenjuan@uestc.edu.cn/+861522881467 </item>
+        <item> richardchen@uestc.edu.cn/+8613908021381 </item>
+        <item> cwy@uestc.edu.cn/+86028-61831687 </item>
+        <item> dxy@uestc.edu.cn/+86)3550201601</item>
+        <item> ledong@uestc.edu.cn/+8613981763623 </item>
+        <item> duanhancong@uestc.edu.cn/+8613808070357 </item>
+        <item> ff98@uestc.edu.cn </item>
+        <item> Fubo@uestc.edu.cn </item>
+        <item> huigao@uestc.edu.cn/+8613550202554 </item>
+        <item> hggong@uestc.edu.cn/+8618982228918 </item>
+        <item> shenglin_gui@uestc.edu.cn/+86-13882205728</item>
+        <item> mshou@uestc.edu.cn/+86028-61831877 </item>
+        <item> zkang@uestc.edu.cn </item>
+        <item> fagenli@uestc.edu.cn/ +8661831858</item>
+        <item> hongweili@uestc.edu.cn  </item>
+        <item> liyujun@uestc.edu.cn</item>
+        <item> linjie@uestc.edu.cn/+8613551056613 </item>
+        <item> lgs@uestc.edu.cn</item>
+        <item> quake@uestc.edu.cn/+8618980412312</item>
+        <item> ghlu@uestc.edu.cn/+86-28-61830096 </item>
+        <item> luli2009@uestc.edu.cn/+86 153 904 46500 </item>
+        <item> luxj@uestc.edu.cn/+8618615789616 </item>
+        <item> csjluo@hotmail.com/+86-18008069944 </item>
+        <item> xinzhengniu@uestc.edu.cn/+8613438891658 </item>
+        <item> qinke@uestc.edu.cn/+86138-80363890 </item>
+        <item> qiuhang@uestc.edu.cn/+8613684061886 </item>
+        <item> hongqu@uestc.edu.cn</item>
+        <item> rongzhh@gmail.com/+8618381025285 </item>
+        <item> shaojie@uestc.edu.cn/ +86-28-61831803 </item>
+        <item> junmshao@uestc.edu.cn </item>
+        <item> sjie@uestc.edu.cn/+8613540600696 </item>
+        <item> chaosong@uestc.edu.cn/+86-18908009991 </item>
+        <item> guolin.sun@uestc.edu.cn</item>
+        <item> sunm@uestc.edu.cn/+8618628002288 </item>
+        <item> xfwang@uestc.edu.cn </item>
+        <item> cla@uestc.edu.cn/+8613086679398 </item>
+        <item> quanwen@uestc.edu.cn/+8613982283519 </item>
+        <item> hwu@uestc.edu.cn/+8613808005400 </item>
+        <item> wljuestc@sina.com/+8613808028681 </item>
+        <item> xiaqi0769@gmail.com/+8613980060339 </item>
+        <item> jcxiang@uestc.edu.cn/ +8613688335379 </item>
+        <item> myxiao@gmail.com/+8615397626165 </item>
+        <item> chxxu@uestc.edu.cn/+8613060090608 </item>
+        <item> xuyang@uestc.edu.cn/+8618980947876 </item>
+        <item> zlxu@uestc.edu.cn/+86028-61830885 </item>
+        <item> xueruini@uestc.edu.cn/+86-13880715654 </item>
+        <item> huayan@uestc.edu.cn/+8613628036420 </item>
+        <item> yangbo@uestc.edu.cn/	+86028-61831002 </item>
+        <item> guowu@uestc.edu.cn/+8615928606207 </item>
+        <item> haomyang@uestc.edu.cn/+86-13551862331 </item>
+        <item> dlyyang@gamil.com </item>
+        <item> maoye@uestc.edu.cn </item>
+        <item> zhansy@uestc.edu.cn </item>
+        <item> kezhang@uestc.edu.cn/+8613183880979 </item>
+        <item> yongzh04@gmail.com/+8615982268769 </item>
+        <item> zhongxiuqin2009@gmail.com/+8613808076910 </item>
+        <item> jlzhou@uestc.edu.cn/+8613882151945 </item>
+        <item> zhou.yi@uestc.edu.cn </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_10">
+        <item> 7332517@qq.com/+8618980990801 </item>
+        <item> bochen@uestc.edu.cn </item>
+        <item> djchen@uestc.edu.cn </item>
+        <item> jchen@uestc.edu.cn/+86028-83206317/+8613308044372 </item>
+        <item> jianhua.deng@uestc.edu.cn/	+86028-83202525 </item>
+        <item> yi.ding@uestc.edu.cn/+8613882219978 </item>
+        <item> fuc@uestc.edu.cn/+8613880608080 </item>
+        <item> 	jdguo@uestc.edu.cn/+8613808184720 </item>
+        <item> zbhao@uestc.edu.cn/+8613688305843</item>
+        <item> weijiang@uestc.edu.cn </item>
+        <item> kuangping@uestc.edu.cn/+8618584059891 </item>
+        <item> lantian1029@uestc.edu.cn </item>
+        <item> xiaoyu33521@163.com/+8618108198701 </item>
+        <item> liaoyong@uestc.edu.cn/+86028-61830580</item>
+        <item> liaoyj@uestc.edu.cn </item>
+        <item> lindi@uestc.edu.cn/+8618190837258 </item>
+        <item> 	qliu@uestc.edu.cn/+86-180-1067-8960 </item>
+        <item> xucheng@uestc.edu.cn/+8613688001865 </item>
+        <item> wzqian@uestc.edu.cn/+8613730885415</item>
+        <item> qinzhen@uestc.edu.cn </item>
+        <item> qinzg@uestc.edu.cn/+8683202201 </item>
+        <item> uestc2008@126.com/ +8615908177003 </item>
+        <item> kun@uestc.edu.cn/ +8618108119039 </item>
+        <item> susheng@uestc.edu.cn</item>
+        <item> tian_wenhong@uestc.edu.cn/+86-13408064175 </item>
+        <item> qxwang@uestc.edu.cn </item>
+        <item> zgwang@uestc.edu.cn</item>
+        <item> wenjun@uestc.edu.cn/+8613438032255 </item>
+        <item> jiawu@uestc.edu.cn </item>
+        <item> wj@uestc.edu.cn/+8613699066562 </item>
+        <item> wuxh@uestc.edu.cn </item>
+        <item> xionghu.uestc@gmail.com/+861820031683</item>
+        <item> minn003@163.com </item>
+        <item> yingq@uestc.edu.cn </item>
+        <item> ybyu@uestc.edu.cn/+8613908213984</item>
+        <item> fzhang@uestc.edu.cn /+86028-61830360, +8613308039351 </item>
+        <item> zhangxue@uestc.edu.cn/+86138-8078-6329 </item>
+        <item> zhaoyang@uestc.edu.cn/+8615828030973 </item>
+        <item> zhongting@uestc.edu.cn </item>
+        <item> zhoueq@uestc.edu.cn </item>
+        <item> fan.zhou@uestc.edu.cn </item>
+        <item> sjzhou@uestc.edu.cn/	+8613980969005</item>
+        <item> zhugb@uestc.edu.cn/+8683207525 </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_11">
+        <item> dengzhl@uestc.edu.cn/+8618782026315 </item>
+        <item> yanfeijing@uestc.edu.cn/+8615828606538 </item>
+        <item> kongefang@uestc.edu.cn </item>
+        <item> lengjs@uestc.edu.cn/+8613550028157 </item>
+        <item> plum_liliang@uestc.edu.cn/plum_liliang@163.com </item>
+        <item> yingcun.xia@gmail.com/+8618951991337 </item>
+        <item> zxiang@uestc.edu.cn/+86-152-0836-3112 </item>
+        <item> xiaoyb9999@uestc.edu.cn </item>
+        <item> xlzhao122003@163.com/+8613568973845 </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_12">
+        <item> ben_becker@uestc.edu.cn </item>
+        <item> bbiswal@gmail.com/+8615928765634 </item>
+        <item> chenhf@uestc.edu.cn/	+86-28-13808003171 </item>
+        <item> hding@uestc.edu.cn/ +86028-83202351</item>
+        <item> fengjuan@uestc.edu.cn/ +86028-83202595 </item>
+        <item> dqguo@uestc.edu.cn/+86-13882220738 </item>
+        <item> fbguo@uestc.edu.cn/+86028-83202351 </item>
+        <item>hj@uestc.edu.cn/ +86-28-61830670 </item>
+        <item> laiyx@uestc.edu.cn/+86028-83206917 </item>
+        <item> liling@uestc.edu.cn/+8613558688301 </item>
+        <item> hlin@uestc.edu.cn/+86028-83202351 </item>
+        <item> liujiankui@uestc.edu.cn </item>
+        <item> liuyiyao@uestc.edu.cn/+86028-83203353 </item>
+        <item> sajeewa@uestc.edu.cn </item>
+        <item> 	pedro.valdes@neuroinformatics-collaboratory.org/17380658702 </item>
+        <item> raonn@uestc.edu.cn/+86028-83206489 </item>
+        <item> lixiatang@uestc.edu.cn/+8618280036496 </item>
+        <item> w_ling@uestc.edu.cn/+8613008170166</item>
+        <item> wangxyhku@uestc.edu.cn/+86028-83206437 </item>
+        <item> wuchunhui@uestc.edu.cn/+86-15208315461 </item>
+        <item> wuzhe@uestc.edu.cn/+86-18080019322 </item>
+        <item> gbxie@uestc.edu.cn/ +86028-83208232</item>
+        <item> xupeng@uestc.edu.cn/	+86028-83206978 </item>
+        <item> liaoyong@uestc.edu.cn </item>
+        <item> yanghongyh@uestc.edu.cn/+8613540350147 </item>
+        <item> yangzujun@uestc.edu.cn/+86028-83206556 </item>
+        <item> dyao@uestc.deu.cn/+86-28-83201018(o) </item>
+        <item> youzili@uestc.edu.cn/+86028-83200461 </item>
+        <item> zenghj@uestc.edu.cn/	+86-83201815 </item>
+        <item> hzhang@uestc.edu.cn/+86028-83208238 </item>
+        <item> jjzhang@uestc.edu.cn/+8617761268652 </item>
+        <item> yuanchao.zhang8@gmail.com/+86028-83206265 </item>
+        <item> zhoujp@uestc.edu.cn/+86028-83206556 </item>
+        <item> p_zhou@uestc.edu.cn/+86028-83202351 </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_13">
+        <item> chaijw@uestc.edu.cn/+8613808017532 </item>
+        <item> chenlu@uestc.edu.cn/+8613730856438 </item>
+        <item> duyf@uestc.edu.cn/+8613008115065 </item>
+        <item> tianlie@uestc.edu.cn/+86138 80089011 </item>
+        <item>hezh@uestc.edu.cn/+8613880452795 </item>
+        <item> shaoyf@uestc.edu.cn </item>
+        <item> wangbj@uestc.edu.cn/+8613550272370 </item>
+        <item> gfwang@uestc.edu.cn/+8613882277187 </item>
+        <item> wujh@uestc.edu.cn</item>
+        <item> xiaowen@uestc.edu.cn /+8613880056612</item>
+        <item> xiaoyg@uestc.edu.cn/	+8613981911295 </item>
+        <item> Cbai@uestc.edu.cn/+8613664228458 </item>
+        <item> chenguangyu@uestc.edu.cn/+8613308050590 </item>
+        <item> dingya@uestc.edu.cn/+8618980523497 </item>
+        <item> jmfang@uestc.edu.cn/	+8613880670057 </item>
+        <item> fengyi@uestc.edu.cn </item>
+        <item> dcliang@uestc.edu.cn/+86138-8079-8925 </item>
+        <item> maj@uestc.edu.cn/+8613881949799 </item>
+        <item> ypmu@uestc.edu.cn/+8613980628262</item>
+        <item> songna@uestc.edu.cn/+8618328441601 </item>
+        <item> 	tangzw@uestc.edu.cn/+86（0）2861831386 </item>
+        <item> yanpy@uestc.edu.cn </item>
+        <item> yinym@uestc.edu.cn/+8618980086036 </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="Contact_14">
+        <item> zhuxn1956@163.com\n	+86-(0)28-61831706 </item>
+        <item> xuexiaodong@126.com\n+8618011301016 </item>
+        <item> tangzw@uestc.edu.cn\n+86 -（0）28 -61831386 </item>
+        <item> Xiemei001@163.com</item>
+        <item> shurz2015@163.com; shurz2015@uestc.edu.cn\n+86 -（028） -61831756 </item>
+        <item> shenhua1997@163.com\n+86028-15208290448 </item>
+        <item> 391152095@qq.com </item>
+        <item> 	luoruoyu@126.com;dzkdlry@uestc.edu.cn </item>
+        <item> yangjing8056@uestc.edu.cn\n+8613684089848 </item>
+        <item> liuyu2301@126.com\n+86-(0)28-61831213 </item>
+        <item> zhanxun@163.com\n+86 13708038300 </item>
+        <item> tpgaocyj@uestc.edu.cn\n+86-13880313661 </item>
+        <item> zeng1982@uestc.edu.cn\n+861354137939 </item>
+        <item> zhanghuiping@uestc.edu.cn\n+86-15928424977</item>
+        <item> 15108300342@163.com/+8615108300342 </item>
+        <item> xiaoyang619@sina.com/+8613730818851 </item>
+        <item> libbing@sohu.com/+8613808000750 </item>
+        <item> liulinghui2005@163.com/+8618200379048 </item>
+        <item> wangluhao5932@uestc.edu.cn/+8618200379048 </item>
+        <item> yifanshi028@163.com </item>
+        <item> 13077495@qq.com/	+8613880636590 </item>
+        <item> liuxuan@uestc.edu.cn/+8613808810710 </item>
+        <item>zhangqinpsy@163.com </item>
+        <item>  </item>
+    </string-array>
+    <string-array name="ISU">
+        <item> ISU OFFICIALS </item>
+        <item> ISU EVENTS </item>
+        <item> IMPORTANT CONTACTS </item>
+        <item> GRADING SYSTEM </item>
+        <item> SCHOOL PORTAL </item>
+        <item> NOTICE </item>
+    </string-array>
+    <string-array name="ISU_OFF">
+        <item> Ukwuoma Chiagoziem Chima </item>
+        <item> Gurupira Takudzwa E A </item>
+        <item> Kenneth Coker </item>
+        <item> Nimo Benjamin Darkwa </item>
+        <item> Michael Wilson Aidoo </item>
+        <item> Ali Naveed </item>
+        <item> Agness George Sambali </item>
+        <item> Kellil Nebiat Hiruy </item>
+        <item> Ataher Al Imran </item>
+        <item> Mahi Rifat Bin </item>
+        <item> Hora Gada Gashe  </item>
+        <item> Kossoko Yemissola Nadjath </item>
+        <item> Abdulrahman M Ibrahim </item>
+    </string-array>
+    <string-array name="ISU_Pos">
+        <item> President </item>
+        <item> VP Union Secretary  </item>
+        <item> VP Social Events </item>
+        <item> Public Relations Officer </item>
+        <item> Academic Affairs Officer </item>
+        <item> Entertainment and Events Officer </item>
+        <item> Secretary </item>
+        <item> Welfare Officer </item>
+        <item> Sports Officer </item>
+        <item> VP Academic and Welfare </item>
+        <item> VP Undergraduate Affairs </item>
+        <item> Academic Officer Undergraduates </item>
+        <item> Welfare Officer Undergraduates </item>
+    </string-array>
+    <string-array name="ISU_Contact">
+        <item> chiagoziemchima@gmail.com/ +8613281215112 </item>
+        <item> takudzwa.gurupira@gmail.com/ +8613281070295 </item>
+        <item> kennethcoker25@gmail.com/ +8613281833470 </item>
+        <item> bdarkwanimo90@gmail.com/ +8613258106105 </item>
+        <item> mwilsonaidoo@outlook.com/ + 8613072881473</item>
+        <item> katorar.naveed@outlook.com/ +8613018246356 </item>
+        <item> agnessgeorge@icloud.com/ +8613194966803 </item>
+        <item> nebkellil@gmail.com/ +8613086672931 </item>
+        <item> ateimran@gmail.com/+8613258377156 </item>
+        <item> mahiabscond@gmail.com/ +8613258379802 </item>
+        <item> gadathetop@gmail.com/ +8613086672923 </item>
+        <item> yemissola@yahoo.com/+8615756392030 </item>
+        <item> m_abdulrahman65@yahoo.com/+8613086673216 </item>
+
+    </string-array>
+    <string-array name="Important_Contacts">
+        <item> Ambulance 120\nTraffic Accidents 122 </item>
+        <item> Fire 119\nPolice 110 </item>
+        <item> Security [New Campus] +8661830110/+8661830119\nSecurity [Old campus] +8683202241/+8683200110 </item>
+        <item> Information +8661831184/+86618311510/114 </item>
+        <item> Students affairs Department +8661831539 </item>
+        <item> Human Resources Dept +8661831725/+8661837229 </item>
+        <item> Graduate School +8661831825\n More details on http://res.uestc.edu.cn/YellowPages/index.html </item>
+    </string-array>
+    <string-array name="Events">
+        <item>  Orientation/Registration Guide for Freshers</item>
+        <item> Tutorials for Undergraduates </item>
+        <item> Seminars </item>
+        <item> Membership/Leadership Programs </item>
+        <item> Debates </item>
+        <item> ISU Nations Cup </item>
+        <item> Inter School Games  </item>
+        <item> Winter Games </item>
+        <item> Inter University Games </item>
+        <item>Excursions and Trips</item>
+        <item>Cultural Displays and Tribal Fusion </item>
+        <item> Freshers Welcoming Party and Socialization</item>
+        <item> New year get together and Movie night </item>
+        <item> Clean up Exercise </item>
+        <item> Health Walk </item>
+        <item> Send Off Activities </item>
+    </string-array>
+    <string-array name="Portal">
+        <item> School site en.uestc.edu.cn </item>
+        <item> Students Portal http://portal.uestc.edu.cn </item>
+        <item> Link 3rd </item>
+    </string-array>
+    <string-array name="Grading">
+        <item> 85 - 100 (A) = 4.0 </item>
+        <item> 84 = 3.9</item>
+        <item> 83 = 3.8 </item>
+        <item> 80 = 3.5  </item>
+        <item> 75 = 3.0 </item>
+        <item> 70 = 2.5 </item>
+        <item> 65 = 2.0 </item>
+        <item> 60 = 1.2 </item>
+        <item> Less than 60 = (Fail) 0 </item>
+    </string-array>
+    <string-array name="Notice">
+        <item> https://en.uestc.edu.cn/Campus_Life1/AcademicNotice.htm </item>
+    </string-array>
+    <string-array name="Resources">
+        <item> https://en.uestc.edu.cn/Employment1/Download.htm </item>
+        <item> http://gr.uestc.edu.cn/xiazai/114/3917 For thesis format </item>
+        <item> link 3 </item>
+        <item> link 4 </item>
+        <item> link 5 </item>
+        <item> link 6 </item>
+        <item> link 7 </item>
+        <item> link 8 </item>
+        <item> link 9 </item>
+    </string-array>
+    <string-array name="Entertain">
+        <item> Photos </item>
+        <item> Videos </item>
+        <item> Audio </item>
+    </string-array>
+    <string-array name="Calendar">
+        <item> School Schedule </item>
+        <item> Official Holidays </item>
+        <item> Full Calendar </item>
+    </string-array>
+    <string-array name="Calendar1">
+        <item>
+        First Semester 2019/09/02 - 2020/01/19\n
+        First Semester final Exam 19/20 week\n
+        Second Semester 2020/02/24 - 2020/07/12\n
+        Second Semester final Exam 18/19 week\n
+        Winter Holiday 2020/01/20 - 2020/02/23\n
+        Summer Holiday 2020/07/13 - 2020/08/30
+        </item>
+        <item>
+        National Day 2019 Oct 1 - 3\n
+        Mid Autumn Day 2019 Sept 13\n
+        New year Day 2020 Jan 1\n
+        Spring Festival 2020 Jan 25 - 27\n
+        Tomb Sweeping Day  2020 Apr 4\n
+        Labour Day 2020 May 1\n
+        Dragon Boat Festival 2020 Jun 25
+        </item>
+        <item> http://eportal.uestc.edu.cn/qlijwapp/sys/lwSchoolCalendar/index.do </item>
+    </string-array>
+    <string-array name="Menu">
+        <item> Ejiyi Chukwuebuka Joseph [GREAT]</item>
+        <item> Prof. Jiahua Deng</item>
+        <item> Salako Adetunji </item>
+
+    </string-array>
+    <string-array name="Des">
+        <item> Developer:   School of Information and Software Engineering; \n Email Address: cjejiyi@hotmail.com;   \n Wechat ID: GREAT-93 </item>
+        <item> Supervisor:  School of Information and Software Engineering</item>
+        <item> Support provider for the  developer:  School of Computer Science </item>
+    </string-array>
+
+</resources>

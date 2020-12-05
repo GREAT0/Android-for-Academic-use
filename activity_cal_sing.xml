@@ -1,0 +1,42 @@
+<androidx.cardview.widget.CardView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    android:elevation="12dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Tvcal"
+            android:textStyle="bold"
+            android:autoLink="all"
+            android:text="Calendar"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="105dp"
+            android:textColor="@color/colorAccent"
+            />
+        <TextView
+            android:textSize="14sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/CalD"
+            android:text="Details"
+            android:autoLink="all"
+            android:linksClickable="true"
+            android:layout_below="@+id/Tvcal"
+            android:layout_marginLeft="10dp"
+            android:textColor="#0536F0"
+            />
+
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

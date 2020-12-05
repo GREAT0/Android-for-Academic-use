@@ -1,0 +1,63 @@
+<androidx.cardview.widget.CardView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    android:elevation="12dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDevname"
+            android:textStyle="bold"
+            android:text="Developer"
+            android:autoLink="all"
+            android:linksClickable="true"
+            android:layout_marginLeft="102dp"
+            android:textColor="@color/colorAccent"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDevskl"
+            android:text="DevSkl"
+            android:textAllCaps="false"
+            android:layout_marginTop="2dp"
+            android:autoLink="all"
+            android:textSize="14sp"
+            android:linksClickable="true"
+            android:textColor="#D109F0"
+            android:layout_marginLeft="1dp"
+            android:layout_below="@+id/tvDevname"
+            />
+
+     <!--   <ImageView
+            android:layout_width="90dp"
+            android:id="@+id/Dvimage"
+            android:layout_height="100dp"
+            android:layout_marginLeft="@dimen/cardview_default_elevation">
+
+        </ImageView>
+-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:id="@+id/tvContactMn"
+            android:textSize="14dp"
+            android:textColor="#03A9F4"
+            android:autoLink="all"
+            android:linksClickable="true"
+            android:text="Institution: University of Electronic Science and Technology of China"
+            android:layout_alignParentLeft="false"
+            android:layout_below="@+id/tvDevskl"
+            />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
